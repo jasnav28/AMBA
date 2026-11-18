@@ -21,12 +21,12 @@ export default function App() {
     } else if (DEFAULT_ALIASES.has(rawPath)) {
       desiredSlug = `/${DEFAULT_ALIAS}`;
     } else {
-      desiredSlug = `/${encodeURIComponent(found.brand)}`;
+      desiredSlug = current;
     }
     if (current !== desiredSlug) {
       window.history.replaceState(null, '', desiredSlug);
     }
-    document.title = `${found.brand} — Product Information`;
+    document.title = `${found?.displayName || found?.brand || 'AMBA'} — Product Information`;
   }, []);
 
 
@@ -162,6 +162,25 @@ export default function App() {
               </div>
             </div>
           </StarBorder>
+
+          {/* Specifications if present */}
+          {product?.specifications && product.specifications.length > 0 && (
+            <StarBorder as="div" className="w-full" color="cyan" speed="5s" thickness={2}>
+              <div className="flex items-start">
+                <div className="flex items-center justify-center w-10 h-10 rounded-lg bg-[#e8d8a6]/25 text-[#e8d8a6] mr-3 shadow-inner">
+                  <span className="text-lg">📋</span>
+                </div>
+                <div className="flex-1">
+                  <div className="text-[#d9c98f] text-sm">Specifications</div>
+                  <ul className="mt-1 text-sm sm:text-base text-white list-none pl-0 space-y-1">
+                    {product.specifications.map((line, idx) => (
+                      <li key={idx}>{line}</li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </StarBorder>
+          )}
 
           <StarBorder as="div" className="w-full" color="cyan" speed="5s" thickness={2}>
             <div className="flex items-start">
