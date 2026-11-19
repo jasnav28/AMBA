@@ -202,7 +202,7 @@ export const PRODUCTS = [
       '(ii) Bentonite per cent. by weight QS',
       '(iii) Total (per cent.) 100'
     ]
-  },,
+  },
   {
     brand: 'Bhoomi Veda',
     displayName: 'Bhoomi Veda',
@@ -495,7 +495,8 @@ export const PRODUCTS = [
       '(i)  Carrageenan per cent. by weight, minimum 1.0',
       '(ii)  Total dissolved solids per cent. by weight, minimum 10.5',
       '(iii) Total organic carbon per cent. by weight, minimum 1.74',
-      '(iv)  Specific gravity 1.05- 1.15 (v)  pH (50 % aqueous solution) 3.0- 5.0',
+      '(iv)  Specific gravity 1.05- 1.15',
+      '(v)  pH (50 % aqueous solution) 3.0- 5.0',
       '(vi)  Solubility per cent., minimum > 98'
     ]
   },
@@ -1099,8 +1100,10 @@ export const PRODUCTS = [
       '(i) Total amino acids per cent. by weight, minimum 18',
       '(ii) Free amino acids per cent. by weight, minimum 1.5',
       '(iii) Mannitol per cent. by weight, minimum 1.14',
-      '(iv) Alginic acid per cent. by weight, minimum 1.0 (v) pH (1% aqueous solution) 5.0 - 6.5',
-      '(vi) Specific gravity 1.22- 1.25 (vii) Total organic carbon per cent. by weight, minimum 20',
+      '(iv) Alginic acid per cent. by weight, minimum 1.0',
+      '(v) pH (1% aqueous solution) 5.0 - 6.5',
+      '(vi) Specific gravity 1.22- 1.25',
+      '(vii) Total organic carbon per cent. by weight, minimum 20',
       '(viii) Total dissolved solids per cent. by weight, minimum 46',
       '(ix) Solubility per cent. by weight, minimum 95'
     ]
@@ -1266,7 +1269,8 @@ export const PRODUCTS = [
       '(iii) Humic acid (Source: Leonardite) per cent. by weight, minimum 58',
       '(iv) Potassium sulphate per cent. by weight, minimum 5',
       '(v)  Calcium hydrogen phosphate (as inert) per cent. by weight, minimum 1',
-      '(vi) Malic acid per cent. by weight (vi) 6 Total (per cent.) 100'
+      '(vi) Malic acid per cent. by weight',
+      '(vi) 6 Total (per cent.) 100'
     ],
     specifications: [
       '(i)  Alginic acid per cent. by weight, minimum 2.26',
@@ -1351,7 +1355,8 @@ export const PRODUCTS = [
       '(i) Total amino acids per cent. by weight, minimum 26',
       '(ii) Free amino acids per cent. by weight, minimum 20',
       '(iii) pH (10 % aqueous solution)  4.82  ± 0.5',
-      '(iv) Specific Gravity 1.1637 ± 0.02 (v) Total organic carbon per cent. by weight, minimum 19.71',
+      '(iv) Specific Gravity 1.1637 ± 0.02',
+      '(v) Total organic carbon per cent. by weight, minimum 19.71',
       '(vi) Solubility per cent. by weight, minimum 99.05'
     ]
   },
@@ -1540,2662 +1545,171 @@ export const PRODUCTS = [
     ]
   },
   {
-    brand: 'Bhoomi Veda',
-    displayName: 'Bhoomi Veda',
-    specification: 'Humates (12.5%) (Liquid)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
-    crops: ['Green Gram'],
+    brand: 'Bio Trigger',
+    displayName: 'Bio Trigger',
+    specification: 'Lipo-chitooligosaccharides from Escherichia coli (Liquid)',
+    category: 'Cell Free Microbial Products',
+    crops: ['Paddy'],
     dosage: [
-      'Two soil applications at 5.0 l/ha.'
+      'Two foliar sprays at 300 ml/ha'
     ],
-    gazette: '16th February, 2026 S.O. 876(E)',
+    gazette: '26th May, 2025 S.O. 2346(E)',
     composition: [
-      '(i) Humic acid (Source: American Leonardite) per cent. by weight, minimum 10.0',
-      '(ii) Fulvic acid (Source: American Leonardite) per cent. by weight, minimum 2.5',
-      '(iii) Tetrapotassium pyrophosphate per cent. by weight, minimum 0.9',
-      '(iv) Potassium hydroxide 50% solution per cent. by weight, minimum 10.0',
-      '(v)  Alcoxylated fatty acid ester on vegetable base per cent. by weight, minimum 0.7',
-      '(vi) Water per cent. by weight QS',
-      '(vii) Total (per cent.) 100'
+      '(i)  *Lipo-chitooligosaccharides (LCO SP104) from Escherichia coli per cent. by weight, minimum 1.9 x 10-5',
+      '(ii)  Dodecyl Benzene Sulfonic acid per cent. by weight, minimum 0.032',
+      '(iii) Ethoxylated isodecyl alcohol per cent. by weight, minimum 0.008',
+      '(iv)  Potassium phosphate monobasic per cent. by weight, minimum 0.100',
+      '(v)  Potassium Phosphate dibasic per cent. by weight, minimum 0.066',
+      '(vi)  1,2 - Benzisothiazolin-3-one per cent. by weight, minimum 0.25',
+      '(vii)  Water per cent. by weight QS',
+      '(viii) Total (per cent.) 100'
     ],
     specifications: [
-      '(i) Humic acid per cent. by weight, minimum 10.0',
-      '(ii) Fulvic acid per cent. by weight, minimum 2.5',
-      '(iii) Specific gravity 1.0- 1.20',
-      '(iv) pH (10 % aqueous solution) 12 -14',
-      '(v) Total organic carbon per cent. by weight, minimum 3.49',
-      '(vi) Solubility per cent. by weight, minimum 98'
+      '(i)  Lipo-chitooligosaccharides (LCO) per cent. by weight, minimum 1.9 x 10-5',
+      '(ii)  Specific gravity 1.0 ± 0.03',
+      '(iii) pH (1 % aqueous solution) 6.5- 7.5',
+      '(iv)  Solubility per cent., minimum > 99%'
     ]
   },
   {
-    brand: 'Dhara Gold',
-    displayName: 'Dhara Gold',
-    specification: 'Humalite 100% (Granular powder)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
-    crops: ['Ridge Gourd'],
+    brand: 'Pido Vigor',
+    displayName: 'Pido Vigor',
+    specification: 'L-Pyroglutamic acid (Pidolic acid) 10 % (Liquid)',
+    category: 'Biochemicals',
+    crops: ['Grape'],
     dosage: [
-      'One soil application at 112.5 kg/ha'
+      'Four foliar applications at 1000ml/ha'
     ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
+    gazette: '13th August, 2025 S.O. 3743(E)',
     composition: [
-      '(i) Humalite (Source:  weathered sub-bituminous coal) per cent. by weight, minimum 100',
-      '(ii) Total (per cent.)   100'
-    ],
-    specifications: [
-      '(i) Value Humic acid per cent. by weight, minimum  40.8',
-      '(ii)Fulvic acid per cent. by weight, minimum 1',
-      '(iii) pH (10% aqueous solution) 3.9',
-      '(iv)  Total organic carbon per cent. by weight, minimum 24',
-      '(v)  Bulk density (g/cc)  0.74 ± 0.02',
-      '(vi) Solubility per cent. by weight, minimum 6.3'
-    ]
-  },
-  {
-    brand: 'Humi Shine',
-    displayName: 'Humi Shine',
-    specification: 'Humic substance 16% (Liquid)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
-    crops: ['Pineapple'],
-    dosage: [
-      'Two foliar applications at 1500 ml/ha.'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Humic substance (Source: renewable composted agri biomass) per cent. by weight, minimum   16.0',
-      '(ii) Soluble Energizers (co-extracted substances including carbohydrates, peptides and trace amount of nutrients) per cent. by weight, minimum  4',
-      '(iii) Water per cent. by weight QS',
-      '(iv)   Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Humic acid per cent. by weight, minimum  0.30',
-      '(ii)  Fulvic acid per cent. by weight, minimum  0.40',
-      '(iii) Total organic carbon per cent. by weight, minimum   0.93',
-      '(iv) pH (1% aqueous solution) 7.0 – 9.5',
-      '(v)  Specific gravity  1.05 -1.20',
-      '(vi)  Solubility per cent. by weight 100'
-    ]
-  },
-  {
-    brand: 'Mitti Ratna',
-    displayName: 'Mitti Ratna',
-    specification: 'Humic acid 50% (Powder)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
-    crops: ['Chilli'],
-    dosage: [
-      'Two soil applications at 10kg/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Humic acid (Source: Plant derived) per cent. by weight, minimum 50',
-      '(ii) Lactose per cent. by weight QS',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Humic acid per cent. by weight, minimum 50',
-      '(ii) pH(1% aqueous solution) 6- 8',
-      '(iii) Bulk density (gram/cc)  0.70 ± 0.02',
-      '(iv) Total organic carbon per cent. by weight, minimum 32',
-      '(v) Solubility per cent. by weight, minimum 65'
-    ]
-  },
-  {
-    brand: 'RootZest Crystal',
-    displayName: 'RootZest Crystal',
-    specification: 'Humic acid and Fulvic acid 45.1% (Crystal)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
-    crops: ['Rice'],
-    dosage: [
-      'Two foliar applications at 250g/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Humic acid (Source: lignite) per cent. by weight, minimum 45',
-      '(ii) Fulvic acid per cent. by weight, minimum 0.1',
-      '(iii) Potassium as K2O per cent. by weight 5',
-      '(iv) Bentonite powder per cent. by weight QS',
+      '(i) L-Pyroglutamic acid (Pidolic acid) per cent. by weight, minimum 10.0',
+      '(ii) Organosulfur compound per cent. by weight, minimum 8.8',
+      '(iii) Carboxylic acid per cent. by weight, minimum 1.0',
+      '(iv) Proline derivative per cent. by weight, minimum 9.0',
+      '(v) Amino alcohol (stabilizer) per cent. by weight, minimum 0.20',
+      '(vi) Polyglycolide (surfactant) per cent. by weight, minimum 0.01',
+      '(vii) Glycerine per cent. by weight, minimum 0.43',
+      '(iv) Water per cent. by weight QS',
       '(v) Total (per cent.) 100'
     ],
     specifications: [
-      '(i) Humic acid per cent. by weight, minimum 45',
-      '(ii) Fulvic acid per cent. by weight, minimum 0.1',
-      '(iii) pH (1%  aqueous solution) 8- 10',
-      '(iv) Specific gravity 0.6- 0.7',
-      '(v) Solubility per cent. by weight, minimum 90',
-      '(vi) Total organic carbon per cent. by weight, minimum 40'
+      '(i) L-Pyroglutamic acid (Pidolic acid) per cent. by weight, minimum  10.0',
+      '(ii) pH (1 % aqueous solution) 4.24±0.5',
+      '(iii) Total dissolved solids per cent. by weight, minimum  31.78',
+      '(iv) Specific gravity 1.20±0.02',
+      '(v) Total organic carbon per cent. by weight, minimum  9.3',
+      '(vi) Solubility per cent. by weight, minimum   52'
     ]
   },
   {
-    brand: 'Mool Shakti',
-    displayName: 'Mool Shakti',
-    specification: 'Humic acid and Fulvic acid 20.20 % (Liquid)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
+    brand: 'Vikas Folic',
+    displayName: 'Vikas Folic',
+    specification: 'Folic acid 0.1% (Liquid)',
+    category: 'Vitamins',
+    crops: ['Chilli'],
+    dosage: [
+      'Four foliar applications at 200 ml/ha'
+    ],
+    gazette: '16th February, 2026 S.O. 876(E)',
+    composition: [
+      '(i) Folic acid per cent. by weight, minimum 0.1',
+      '(ii) Polysorbate 20 per cent. by weight, maximum 3.0',
+      '(iii) Sodium bicarbonate per cent. by weight, maximum 2.5',
+      '(iv) Water per cent. by weight QS',
+      '(v) Total (per cent.) 100'
+    ],
+    specifications: [
+      '(i) Folic acid per cent. by weight, minimum 0.1',
+      '(ii) Total organic carbon per cent. by weight, minimum 2.0',
+      '(iii) pH (10% aqueous solution) 7.5- 8.5',
+      '(iv) Specific gravity 1.0- 1.10',
+      '(v) Solubility per cent. by weight, minimum 99.98'
+    ]
+  },
+  {
+    brand: 'Prakriti Shield',
+    displayName: 'Prakriti Shield',
+    specification: 'Phenolic compounds 3% (Liquid)',
+    category: 'Antioxidant',
+    crops: ['Maize'],
+    dosage: [
+      'Three foliar applications at 750 ml/ha'
+    ],
+    gazette: '13th August, 2025 S.O. 3741(E)',
+    composition: [
+      '(i) Phenolic compound per cent. weight by volume, minimum  3',
+      '(ii) Water per cent. weight by volume 97',
+      '(iii) Total (per cent.) 100'
+    ],
+    specifications: [
+      '(i) Phenolic compounds per cent. weight by volume, minimum 3.0',
+      '(ii) pH (1 % aqueous solution ) 11-12',
+      '(iii) Total organic carbon per cent. by weight, minimum  0.5',
+      '(iv) Total dissolved solids per cent. weight by volume, minimum  3.0',
+      '(v) Specific gravity  1.1 ± 0.02',
+      '(vi) Solubility per cent. weight by volume, minimum  100'
+    ]
+  },
+  {
+    brand: 'Jeevan Kavach',
+    displayName: 'Jeevan Kavach',
+    specification: 'Lactomin (Antioxidant) 37.96% (Liquid)',
+    category: 'Antioxidant',
+    crops: ['Wheat'],
+    dosage: [
+      'Seed treatment at 1.5ml/kg seed'
+    ],
+    gazette: '16th February, 2026 S.O. 876(E)',
+    composition: [
+      '(i) Lactomin per cent. by weight, minimum 37.96',
+      '(ii) Water per cent. by weight, maximum 62.04',
+      '(iii) Total (per cent.)  100'
+    ],
+    specifications: [
+      '(i) Lactomin as lactic acid per cent. by weight, minimum  37.96',
+      '(ii) pH (1 % aqueous solution)  4.57± 0.5',
+      '(iii) Specific gravity 1.18± 0.02',
+      '(iv) Total organic carbon per cent. by weight, minimum  6.7',
+      '(v) Solubility per cent. by weight, minimum  100',
+      '(vi) Total dissolved solids per cent. by weight, minimum 29.2'
+    ]
+  },
+  {
+    brand: 'Jal Kavach',
+    displayName: 'Jal Kavach',
+    specification: 'Fatty alcohol (Antitransparent) 20% (Liquid)',
+    category: 'Anti-transpirant',
     crops: ['Tomato'],
     dosage: [
       'Three foliar applications at 2.5 litre/ha'
     ],
-    gazette: '25th March, 2026 S.O. 1574(E).',
-    composition: [
-      '(i) Humic acid (Source: Leonardite) per cent. by weight, minimum 18.63',
-      '(ii) Fulvic acid per cent. by weight, minimum 1.57',
-      '(iii) Water per cent. by weight QS',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Humic acid per cent. by weight, minimum 18.63',
-      '(ii) Fulvic acid per cent. by weight, minimum 1.57',
-      '(iii) Total organic carbon per cent. by weight, minimum 13.29',
-      '(iv) pH (50% aqueous solution) 5.28± 0.5',
-      '(v) Specific gravity 1.186± 0.02',
-      '(vi) Solubility per cent. by weight, minimum 99.24'
-    ]
-  },
-  {
-    brand: 'Humi Flora',
-    displayName: 'Humi Flora',
-    specification: 'Humic acid and Fulvic acid 51% (Powder/Flake)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
-    crops: ['Rice'],
-    dosage: [
-      'Three applications (one soil and two foliar) at 1.875 kg/ha”'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E).',
-    composition: [
-      '(i) Humic substances (Source Browncoal/ Leonardite/ weathered coal), per cent. by weight, minimum 80',
-      '(ii) Alkali reagents (Potassium hydroxide, sodium hydroxide, dipotassium hydrogen phosphate, potassium carbonate) per cent. by weight, minimum 10',
-      '(iii) Water per cent. by weight, maximum QS',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Humic acid per cent. by weight, minimum 50.0',
-      '(ii) Fulvic acid per cent. by weight, minimum 1.00',
-      '(iii) Total organic carbon per cent. by weight, minimum 29.0',
-      '(iv) pH (50% aqueous solution) 9.0- 12.0',
-      '(v) Bulk density (gram/cc) 0.50- 0.90',
-      '(vi) Solubility per cent. by weight, minimum 70'
-    ]
-  },
-  {
-    brand: 'Sagar Shakti',
-    displayName: 'Sagar Shakti',
-    specification: 'Ascophyllum nodosum 15% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Green Gram'],
-    dosage: [
-      'Two foliar applications at 1500 ml/ha'
-    ],
-    gazette: '12th September, 2024 S.O. 3922(E)',
-    composition: [
-      '(i)  Alginic Acid per cent. by weight, minimum 1.5',
-      '(ii)  Mannitol per cent. by weight, minimum 1.0',
-      '(iii)  pH (10 % aqueous solution) 4.7 +   1.0',
-      '(iv)  Specific gravity 1.0 – 1.1',
-      '(v)  Total organic carbon per cent. by weight, minimum 5'
-    ],
-    specifications: [
-
-    ]
-  },
-  {
-    brand: 'Samudra Grow',
-    displayName: 'Samudra Grow',
-    specification: 'Sargassum tenerrimum 2%( Granular)',
-    category: 'Seaweed Extract',
-    crops: ['Paddy', 'Tomato'],
-    dosage: [
-      'Paddy: One soil application at 12.5 kg/ha.',
-      'Tomato: One soil application at 12.5 kg/ha.'
-    ],
-    gazette: '12th September, 2024 S.O. 3922(E).',
-    composition: [
-      '(i)  Alginic Acid per cent.by weight minimum 0.2',
-      '(ii)  pH (1:2 aqueous solution) 6.0 - 8.5',
-      '(iii)  Bulk density (g/cc) 0.95 – 1.1'
-    ],
-    specifications: [
-
-    ]
-  },
-  {
-    brand: 'Kelp Max Ultra',
-    displayName: 'Kelp Max Ultra',
-    specification: 'Seaweed (Kappaphycus alvarezii) extract 21% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Cucumber', 'Chilli'],
-    dosage: [
-      'Cucumber One foliar application at 1 litre/ha',
-      'Chilli Two foliar applications at 750 ml/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E).',
-    composition: [
-      '(i) Seaweed (Kappaphycus alvarezii) extract per cent. by weight, minimum 21',
-      '(ii) Organic acid (acetic acid, citric acid and lactic acid) per cent. by weight, minimum 3.0',
-      '(iii) Water per cent. by weight, maximum 76',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) D –Galactose-4-O-Sulphate per cent. by weight, minimum 6.00',
-      '(ii) Total carbohydrate per cent. by weight, minimum  7.50',
-      '(iii) Total dissolved solids per cent. by weight, minimum 24.00',
-      '(iv) Specific gravity 1.15-1.20',
-      '(v) pH (50 % aqueous solution) 3.0-5.0',
-      '(vi) Total organic carbon per cent by weight, minimum 5.8',
-      '(vii) Solubility per cent. by weight, minimum 98'
-    ]
-  },
-  {
-    brand: 'Sagar Vigor',
-    displayName: 'Sagar Vigor',
-    specification: 'Seaweed (Sargassum tenerrimum) 10% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Paddy', 'Tomato'],
-    dosage: [
-      'Paddy : One foliar application at 625 ml/ha.',
-      'Tomato: Two foliar applications at 625 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed extract (Sargassum tenerrimum ) per cent. by weight, minimum 10',
-      '(ii) Carbohydrates per cent. by weight, minimum 8',
-      '(iii) Octylphenol ethoxylate as adjuvant per cent. by weight, minimum 3.1',
-      '(iv) Sodium benzoate per cent. by weight, minimum 1.0',
-      '(v) Water per cent. by weight QS',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 0.88',
-      '(ii) Fucoidan per cent. by weight, minimum 0.49',
-      '(iii) Total dissolved solids per cent. by weight, minimum 22',
-      '(iv) pH (1% aqueous solution) 7.10- 7.50',
-      '(v) Specific gravity 1.10- 1.25',
-      '(vi) Total organic carbon per cent. by weight, minimum 3.01',
-      '(vii) Solubility per cent. by weight, minimum 99.23'
-    ]
-  },
-  {
-    brand: 'Flora Set',
-    displayName: 'Flora Set',
-    specification: 'Kappaphycus alvarezii 9.5% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Paddy'],
-    dosage: [
-      'Three foliar sprays at 1.0 l/ha'
-    ],
-    gazette: '26th May, 2025 S.O. 2346E',
-    composition: [
-      '(i)  Kappaphycus alvarezii extract per cent. by weight, minimum 9.5',
-      '(ii)  Organic acids (Acetic, Citric and Lactic acid) per cent. by weight, minimum  1.0',
-      '(iii) Water per cent. by weight 89.5',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i)  Carrageenan per cent. by weight, minimum 1.0',
-      '(ii)  Total dissolved solids per cent. by weight, minimum 10.5',
-      '(iii) Total organic carbon per cent. by weight, minimum 1.74',
-      '(iv)  Specific gravity 1.05- 1.15 (v)  pH (50 % aqueous solution) 3.0- 5.0',
-      '(vi)  Solubility per cent., minimum > 98'
-    ]
-  },
-  {
-    brand: 'Flora Set Plus',
-    displayName: 'Flora Set Plus',
-    specification: 'Seaweed (Kappaphycus alvarezii) extract- 17% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Cucumber', 'Tomato'],
-    dosage: [
-      'Cucumber: Three foliar applications at 1000 ml/ha',
-      'Tomato: Four foliar applications at 1000 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Seaweed (Kappaphycus alvarezii) extract) per cent. by volume, minimum 17',
-      '(ii) Organic acids (acetic acid, citric acid and lactic acid) per cent. by volume, minimum 2.5',
-      '(iii) Water per cent. by volume  QS',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Carrageenan per cent. by weight, minimum 4.2',
-      '(ii) Carbohydrates per cent. by weight, minimum 6.2',
-      '(iii) pH (50 % aqueous solution) 3- 5',
-      '(iv) Specific gravity 1.10- 1.15',
-      '(v) Solubility per cent. by weight, minimum 98',
-      '(vi) Total organic carbon per cent. by weight, minimum 4.8',
-      '(vii) Total dissolved solid per cent. by weight, minimum 19.5'
-    ]
-  },
-  {
-    brand: 'Samudra Shakti',
-    displayName: 'Samudra Shakti',
-    specification: 'Sargassum tenerrimum 1.2% (Granules)',
-    category: 'Seaweed Extract',
-    crops: ['Tomato', 'Rice'],
-    dosage: [
-      'Rice:-Two soil applications at 15 kg/ha',
-      'Tomato :Two soil applications at 17.5 kg/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed extract (Sargassum tenerrimum) per cent. by weight, minimum 1.2',
-      '(ii) Diethylene glycol per cent. by weight, minimum 0.15',
-      '(iii) Nonylphenol ethoxylate per cent. by weight, minimum 0.10',
-      '(iv) Bentonite granules per cent. by weight 98.55',
-      '(v) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 0.059',
-      '(ii) Fucoidan per cent. by weight, minimum 0.16',
-      '(iii)  pH (1% aqueous solution) 7.55 ± 0.5',
-      '(iv) Total dissolved solids per cent. by weight, minimum 1.5',
-      '(v) Bulk density (gram/cc) 1.137 ± 0.02',
-      '(vi) Organic carbon per cent. by weight, minimum 7.16',
-      '(vii) Solubility per cent. by weight, minimum 5.5'
-    ]
-  },
-  {
-    brand: 'Kelp Ratna',
-    displayName: 'Kelp Ratna',
-    specification: 'Ascophyllum nodosum 90% (Flakes)',
-    category: 'Seaweed Extract',
-    crops: ['Tomato'],
-    dosage: [
-      'Three foliar applications at 750g/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed extract (Ascophyllum nodosum) per cent. by weight, minimum  90',
-      '(ii) Moisture per cent. by weight, maximum 10',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum  4',
-      '(ii) Bulk density (g/ml) 0.527',
-      '(iii) pH (10% aqueous solution) 9.3+0.2',
-      '(iv) Total organic carbon per cent. by weight, minimum  30',
-      '(v) Solubility per cent. by weight, minimum 40'
-    ]
-  },
-  {
-    brand: 'Sea Vigor 22',
-    displayName: 'Sea Vigor 22',
-    specification: 'Ascophyllum nodosum 22% (liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Cotton', 'Soybean', 'Tomato'],
-    dosage: [
-      'Cotton :Three foliar applications at 625 ml/ha',
-      'Soybean : Two foliar applications at 625 ml/ha',
-      'Tomato : Three foliar applications at 625 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 22 %',
-      '(ii) Water per cent. by weight QS',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Mannitol per cent. by weight, minimum 0.1',
-      '(ii) pH (as such)  3.0-4.0',
-      '(iii) Total organic carbon, per cent. by weight  12',
-      '(iv) Total dissolved solids per cent. by weight, minimum 33',
-      '(v) Specific gravity  1.23',
-      '(vi) Solubility per cent. by weight, minimum 100'
-    ]
-  },
-  {
-    brand: 'Carra Boost',
-    displayName: 'Carra Boost',
-    specification: 'Carrabiitol (Kappaphycus alvarezii) 80% (Powder)',
-    category: 'Seaweed Extract',
-    crops: ['Soybean'],
-    dosage: [
-      'Three foliar applications at 75 g/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Carrabiitol (Source: Kappaphycus alvarezii) per cent. by weight, minimum 80',
-      '(ii) Potassium per cent. by weight, minimum   12 1, 2',
-      '(iii) Benzisothiazolin (Preservative) per cent. by weight, minimum 0.1',
-      '(iv) Moisture per cent. by weight 7.9',
-      '(v)  Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Value Carrabiitol per cent. by weight, minimum80',
-      '(ii)  pH (1% aqueous solution) 5.5- 6.5',
-      '(iii)  Total organic carbon per cent. by weight, minimum  20',
-      '(iv) Total dissolved solids per cent. by weight, minimum 95',
-      '(v)  Bulk density (gram/cc) 0.91- 0.96',
-      '(vi)  Solubility per cent. by weight, minimum  95'
-    ]
-  },
-  {
-    brand: 'Ocean Amrit',
-    displayName: 'Ocean Amrit',
-    specification: 'Ascophyllum nodosum 98% (liquid) )',
-    category: 'Seaweed Extract',
-    crops: ['Potato'],
-    dosage: [
-      'Two foliar sprays at 1250 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) liquid extract per cent. by weight, minimum 98',
-      '(ii) Blend of nitric and phosphoric acid in ratio of 3:2 per cent. by weight, minimum 1.6',
-      '(iii) Potassium sorbate 0.4',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 0.8',
-      '(ii) Fucoidan per cent. by weight, minimum 0.7',
-      '(iii) pH (1% aqueous solution) 5.5- 6.5',
-      '(iv) Total organic carbon per cent. by weight, minimum 2.32',
-      '(v) Total dissolved solids per cent. by weight, minimum 9',
-      '(vi) Specific gravity 1.04- 1.06',
-      '(vii) Solubility per cent. by weight, minimum 99.8'
-    ]
-  },
-  {
-    brand: 'Neel Moti',
-    displayName: 'Neel Moti',
-    specification: 'Seaweed (Sargassum wightii) extract 4 % (Granules)',
-    category: 'Seaweed Extract',
-    crops: ['Chilli'],
-    dosage: [
-      'Four soil application at 20kg/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Seaweed (Sargassum wightii) extract per cent. by weight, minimum 4',
-      '(ii) Bentonite per cent. by weight QS',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 0.2',
-      '(ii) Total dissolved solids per cent. by weight, minimum 3',
-      '(iii) Total organic carbon per cent. by weight, minimum 4',
-      '(iv) pH (1 % aqueous solution)  8-9',
-      '(v) Bulk density (gram/cc)    1-1.10',
-      '(vi) Solubility per cent. by weight, minimum 20'
-    ]
-  },
-  {
-    brand: 'Sagar Veda',
-    displayName: 'Sagar Veda',
-    specification: 'Seaweed (Ascophyllum nodosum) extract 18.4% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Tomato'],
-    dosage: [
-      'Three foliar applications at 1000 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 18.45',
-      '(ii) Water per cent. by weight 81.55',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 1.0',
-      '(ii) pH (10% aqueous solution) 4- 5',
-      '(iii) Total organic carbon per cent. by weight, minimum 0.37',
-      '(iv) Solubility per cent. by weight, minimum 99.45',
-      '(v) Specific gravity 1.50- 1.54',
-      '(vi)   Total dissolved solids per cent. by weight, minimum 18.45'
-    ]
-  },
-  {
-    brand: 'Ocean Vita',
-    displayName: 'Ocean Vita',
-    specification: 'Seaweed (Ascophyllum nodosum) extract 22% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Groundnut'],
-    dosage: [
-      'Two foliar applications at 500 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight 22',
-      '(ii) Glutamic acid and aspartic acid (as Chelating agent) per cent. by weight 1.51',
-      '(iii) Water per cent. by weight 76.49',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Mannitol per cent. by weight, minimum 0.1',
-      '(ii) Alginic acid per cent. by weight, minimum 0.1',
-      '(iii) pH (1% aqueous solution) 3.0- 4.0',
-      '(iv) Total organic carbon per cent. by weight, minimum 2.9',
-      '(vi) Specific gravity 1.2-1.4',
-      '(vii) Total dissolved solids per cent. by weight, minimum 10',
-      '(viii) Solubility per cent. by weight, minimum 99'
-    ]
-  },
-  {
-    brand: 'Samudra Gold',
-    displayName: 'Samudra Gold',
-    specification: 'Seaweed (Ascophyllum nodosum) extract 99.52 % (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Grapes', 'Cotton'],
-    dosage: [
-      'Grapes : Three foliar applications at 300 ml/ha',
-      'Cotton : Three foliar applications at 300 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3743(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 99.52',
-      '(ii) Sodium metabisulphite/ potassium sorbate per cent. by weight, minimum 0.48',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Mannitol per cent. weight by volume, minimum 2.4',
-      '(ii) pH ( undiluted)  2.10- 2.60',
-      '(iii) Total organic carbon per cent. by weight, minimum 5',
-      '(iv) Specific gravity  1.075- 1.145',
-      '(v) Total dissolved solids per cent. by weight, minimum 100'
-    ]
-  },
-  {
-    brand: 'Sea Vigor Max',
-    displayName: 'Sea Vigor Max',
-    specification: 'Seaweed(Ascophyllum nodosum) extract 30% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Brinjal'],
-    dosage: [
-      'Three foliar applications at 625 ml/ha'
-    ],
     gazette: '16th February, 2026 S.O. 876(E)',
     composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 30.0',
-      '(ii) Emulsifier (AF 711) per cent. by weight, maximum    20.0',
-      '(iii) Water per cent. by weight, maximum 50.0',
-      '(iv) Total (per cent.) 100'
+      '(i) Total fatty alcohol per cent. by weight, minimum 20',
+      '(ii) Ethoxylated castor oil per cent. by weight, minimum 5',
+      '(iii) Sesame oil per cent. by weight, minimum 5',
+      '(iv) Water per cent. by weight, maximum 70',
+      '(v) Total (per cent.)  100'
     ],
     specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 2.09',
-      '(ii) pH (1%  aqueous dilution) 10.53± 0.5',
-      '(iii) Specific gravity 1.0056± 0.02',
-      '(iv) Total dissolved solids per cent. by weight, minimum 50',
-      '(v) Total organic carbon per cent. by weight, minimum 6.32',
-      '(vi) Solubility per cent. by weight, minimum 96.78'
+      '(i) Hexadecanol per cent. by weight, minimum 2',
+      '(ii) Total organic carbon per cent. by weight, minimum 12',
+      '(iii) Total dissolved solids per cent. by weight, minimum 6',
+      '(iv) pH (1 % aqueous solution)  5.5- 6.5',
+      '(v) Specific gravity 0.95 ± 0.02',
+      '(vi)  Solubility per cent. by weight, minimum 100'
     ]
   },
   {
-    brand: 'Kelp Shakti',
-    displayName: 'Kelp Shakti',
-    specification: 'Seaweed (Ascophyllum nodosum) extract 100% (Powder)',
-    category: 'Seaweed Extract',
-    crops: ['Tomato'],
-    dosage: [
-      'Three foliar applications at 0.75 kg/ha'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract powder per cent. by weight, minimum 100',
-      '(ii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 10.0',
-      '(ii) Fucoidan per cent. by weight, minimum 10.0',
-      '(iii) Mannitol per cent. by weight, minimum 5.0',
-      '(iv) Amino acids per cent. by weight, minimum 2.0',
-      '(v) Total organic carbon per cent. by weight, minimum 26.10',
-      '(vi) pH (1 % aqueous solution) 9.5- 10.5',
-      '(vii) Bulk density (gram/cc) 0.55- 0.65',
-      '(viii) Solubility per cent. by weight, minimum 99.8'
-    ]
-  },
-  {
-    brand: 'Sagar Amrit',
-    displayName: 'Sagar Amrit',
-    specification: 'Seaweed (Ascophyllum nodosum) extract 30% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Rice'],
-    dosage: [
-      'Three foliar applications at 1000 ml/ha'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 30',
-      '(ii) Methylisothiazolinone (preservative) per cent. by weight, minimum 0.1',
-      '(iii) Water per cent. by weight, maximum QS',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 3.0',
-      '(ii) Mannitol per cent. by weight, minimum 1.0',
-      '(iii) pH (as such) 9.0- 11.0',
-      '(iv) Bulk density (gram/cc) 1.10- 1.25',
-      '(v) Total organic carbon per cent. by weight, minimum 9.50',
-      '(vi) Solubility per cent. by weight, minimum 97',
-      '(vii) Total dissolved solids per cent. by weight, minimum 30.0'
-    ]
-  },
-  {
-    brand: 'Ocean Flake',
-    displayName: 'Ocean Flake',
-    specification: 'Seaweed (Ascophyllum nodosum) extract-90 % (Powder/Flake)',
-    category: 'Seaweed Extract',
-    crops: ['Rice'],
-    dosage: [
-      'Three foliar applications at 1000 g/ha'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 90',
-      '(ii) Methylisothiazolinone (preservative) per cent. by weight, minimum 0.1',
-      '(iii) Water per cent. by weight, maximum QS',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 8.0',
-      '(ii) Mannitol per cent. by weight, minimum 3.0',
-      '(iii) pH (1% aqueous solution) 9.0- 11.0',
-      '(iv) Bulk density (gram/cc) 0.56- 0.75',
-      '(v) Total organic carbon per cent. by weight, minimum 28.0',
-      '(vi) Solubility per cent. by weight, minimum 96'
-    ]
-  },
-  {
-    brand: 'Prakriti Boost',
-    displayName: 'Prakriti Boost',
-    specification: 'Spirulina 10% (Liquid)',
-    category: 'Botanical Extract',
-    crops: ['Chilli', 'Tomato'],
-    dosage: [
-      'Two foliar sprays at 750 ml/ha'
-    ],
-    gazette: '26th May, 2025 S.O. 2346E',
-    composition: [
-      '(i)  Spirulina powder per cent. by weight, minimum 10',
-      '(ii)  Propylene glycol per cent. by weight, minimum 5',
-      '(iii) Lignin sulfonate per cent. by weight, minimum 5',
-      '(iv)  Polysaccharide per cent. by weight, minimum 0.1',
-      '(v)  Citric acid per cent. by weight, minimum 0.1',
-      '(vi)  Water per cent. by weight QS',
-      '(vii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i)  Protein per cent. by weight, minimum 6',
-      '(ii)  Specific gravity 1.00- 1.10',
-      '(iii)  pH (1% aqueous solution) 6.0- 9.0',
-      '(iv)  Solubility (as suspension) per cent., minimum 80'
-    ]
-  },
-  {
-    brand: 'Moringa Veda',
-    displayName: 'Moringa Veda',
-    specification: 'Botanical (Moringa oleifera) extract 13.5% (liquid)',
-    category: 'Botanical Extract',
-    crops: ['Tomato'],
-    dosage: [
-      'Three soil appliactions at 1000 ml/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i) Botanical (Moringa oleifera) extract per cent. by weight, minimum 13.5',
-      '(ii) Citric acid per cent. by weight, minimum 0.5',
-      '(iii) Water per cent. by weight, maximum 86',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Polyphenols per cent. by weight, minimum 0.03',
-      '(ii) Tannins per cent. by weight, minimum 0.04',
-      '(iii) pH (10% aqueous solution) 2.8- 4.8',
-      '(iv) Total organic carbon per cent. by weight, minimum 0.42',
-      '(v) Total dissolved solids per cent. by weight, minimum 0.067',
-      '(vi) Specific gravity 0.99- 1.00',
-      '(viii) Solubility per cent. by weight, minimum 99.0'
-    ]
-  },
-  {
-    brand: 'Moringa Shakti',
-    displayName: 'Moringa Shakti',
-    specification: 'Botanical (Moringa oleifera) extract 35% (Liquid)',
-    category: 'Botanical Extract',
-    crops: ['Chilli'],
-    dosage: [
-      'Three foliar applications at 500 ml/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i) Moringa oleifera leaf extract per cent. by weight, minimum 35.0',
-      '(ii) Potassium sorbate per cent. by weight, maximum 0.3',
-      '(iii) Glycerol per cent. by weight, maximum 15.0',
-      '(iv) Tween 80 per cent. by weight, maximum 0.5',
-      '(v) Dextrin per cent. by weight, maximum 0.3',
-      '(vi) Water per cent. by weight, maximum QS',
-      '(vii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Amino acid per cent. by weight, minimum 3.0',
-      '(ii) pH  (1% aqueous solution) 4.0- 5.0',
-      '(iii) Specific gravity 1.059 ± 0.05',
-      '(iv) Total organic carbon per cent. by weight, minimum 27.9',
-      '(v) Solubility per cent. by weight, minimum 80.0',
-      '(vi) Total dissolved solids per cent. by weight, minimum 20.0'
-    ]
-  },
-  {
-    brand: 'Moringa Amrit',
-    displayName: 'Moringa Amrit',
-    specification: 'Botanical (Moringa oleifera) extract 40% (Liquid)',
-    category: 'Botanical Extract',
-    crops: ['Chilli'],
-    dosage: [
-      'Three foliar applications at 500 ml/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i) Moringa oleifera leaf extract per cent. by weight, minimum 40.0',
-      '(ii) Potassium sorbate per cent. by weight, maximum 0.3',
-      '(iii) Glycerol per cent. by weight, maximum 12.0',
-      '(iv) Tween 80 per cent. by weight, maximum 0.5',
-      '(v) Water per cent. by weight, maximum QS',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Amino acid per cent. by weight, minimum 4.0',
-      '(ii) pH  (1% aqueous solution) 4.0- 5.0',
-      '(iii) Specific gravity 1.045± 0.05',
-      '(iv) Total organic carbon per cent. by weight, minimum 20.0',
-      '(v) Solubility per cent. by weight, minimum 76.0',
-      '(vi) Total dissolved solids per cent. by weight, minimum 18.0'
-    ]
-  },
-  {
-    brand: 'Citrus Kavach',
-    displayName: 'Citrus Kavach',
-    specification: 'Botanical (Citrus aurantium and palm oil) extract 18% (Liquid)',
-    category: 'Botanical Extract',
-    crops: ['Chilli'],
-    dosage: [
-      'Three foliar applications at 0.5 liter/ha'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E)',
-    composition: [
-      '(i) Citrus aurantium (bitter orange) extract per cent. by weight, maximum 8',
-      '(ii) Palm oil fatty acid blend (Octanoic acid) per cent. by weight, maximum 10',
-      '(iii) Glycerine per cent. by weight, maximum 35',
-      '(iv) Ethanol per cent. by weight, maximum 6',
-      '(v) Water per cent. by weight, maximum 39',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Total flavonoids per cent. by weight, minimum 5',
-      '(ii) Saponins per cent. by weight, minimum 5',
-      '(iii) Total dissolved solids per cent. by weight, minimum 20.08',
-      '(iv) pH (50% aqueous solution) 2.75 ± 0.5',
-      '(v) Specific gravity 1.09 ± 0.02',
-      '(vi) Solubility per cent. by weight, minimum 99.62',
-      '(vii) Total organic carbon per cent. by weight, minimum 34.53'
-    ]
-  },
-  {
-    brand: 'Green Sanjeevani',
-    displayName: 'Green Sanjeevani',
-    specification: 'Green algae (Chlorella vulgaris) extract 98% (liquid)',
-    category: 'Botanical Extract',
-    crops: ['Rice'],
-    dosage: [
-      'One foliar application at 2.5 litre/ha'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E)',
-    composition: [
-      '(i) Chlorella vulgaris aqueous extract per cent. by weight, minimum 98',
-      '(ii) Sodium benzoate per cent. by weight, minimum 1',
-      '(iii) EDTA as stabilizer per cent. by weight, maximum 1',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Free amino acids per cent. by weight, minimum 3.0',
-      '(ii) Flavonoids per cent. by weight, minimum 0.05',
-      '(iii) Total phenolics per cent. by weight, minimum 0.02',
-      '(iv) Total dissolved solids per cent. by weight, minimum 10.0',
-      '(v) Total organic carbon dry weight basis per cent. by weight, minimum 45',
-      '(vi) pH (10% aqueous solution) 7.5- 8.5',
-      '(vii) Specific gravity 1.01- 1.11',
-      '(viii) Solubility per cent. by weight, minimum 90'
-    ]
-  },
-  {
-    brand: 'Sampoorna Mix',
-    displayName: 'Sampoorna Mix',
-    specification: 'Mixture of Seaweed extract; Humic and Fulvic acid, Amino acids and Vitamins (Liquid)',
-    category: 'Mixed Formulation',
-    crops: ['Cotton'],
-    dosage: [
-      'Two foliar applictaions at 2 l/ha'
-    ],
-    gazette: '26th May, 2025 S.O. 2346E',
-    composition: [
-      '(i)  Sargassum wightii extract per cent. by weight, minimum 20',
-      '(ii)  Glycine per cent. by weight, minimum 10',
-      '(iii) Potassium fulvic humate per cent. by weight, minimum (Source: Leonardite) 10',
-      '(iv)  Vitamin C per cent. by weight, minimum 2.0',
-      '(v)  Water per cent. by weight QS',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i)  Alginic acid per cent. by weight, minimum 0.102',
-      '(ii)  Glycine per cent. by weight, minimum 10',
-      '(iii) Humic acid per cent. by weight, minimum 9.89',
-      '(iv)  Fulvic acid per cent. by weight, minimum 0.31',
-      '(v)  Vitamin C per cent. by weight, minimum 2.0',
-      '(vi)  Total dissolved solids 10.22',
-      '(vii)  Total organic carbon per cent. by weight, minimum 4.5',
-      '(viii)  pH (1 % aqueous solution)  8.70 ± 0.2',
-      '(ix)  Specific gravity 1.0097 ± 0.03',
-      '(x)  Solubility per cent., minimum 99.77'
-    ]
-  },
-  {
-    brand: 'Prakriti Vikas',
-    displayName: 'Prakriti Vikas',
-    specification: 'Mixture of Botanical extract and Seaweed extract (Liquid)',
-    category: 'Mixed Formulation',
-    crops: ['Tomato'],
-    dosage: [
-      'Three foliar applications at 3.75 l/ha'
-    ],
-    gazette: '26th May, 2025 S.O. 2346E',
-    composition: [
-      '(i)  Musa acuminata pseudostem per cent. by weight, minimum 75',
-      '(ii)  Sargassum tenerrimum per cent. by weight, minimum 4',
-      '(iii) Polysorbate 80 per cent. by weight, minimum 0.2',
-      '(iv)  Water per cent. by weight QS',
-      '(v)  Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i)  Polyphenols per cent. by weight, minimum 2',
-      '(ii)  Alginic acid per cent. by weight, minimum 0.1',
-      '(iii) Fucoidan per cent. by weight, minimum 2',
-      '(iv)  Total organic carbon per cent. by weight, minimum 4',
-      '(v)  Total dissolved solids per cent. by weight, minimum 3',
-      '(vi)  Specific gravity 1.07 ± 0.03',
-      '(vii)  pH (10% aqueous solution) 6- 8',
-      '(viii)  Solubility per cent., minimum 99.67'
-    ]
-  },
-  {
-    brand: 'Maha Shakti',
-    displayName: 'Maha Shakti',
-    specification: 'Mixture of Seaweed (Ascophyllum nodosum) extract, Protein hydrolysate and botanical extract (Liquid)',
-    category: 'Mixed Formulation',
-    crops: ['Chilli'],
-    dosage: [
-      'Four foliar applications at 2000 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight 24',
-      '(ii) Protein hydrolysate derived from plant sources',
-      '(sugar beet root : Soy seed flour : maize kernel in ratio of 4:3:3) through chemical (sulphuric acid and lime (Calcium hydroxide) hydrolysis  per cent. by weight, minimum 16',
-      '(iii) Botanical (Lemon grass; leaves) extract per cent. by weight, minimum 0.9',
-      '(iv) Sugar syrup (Beet sugar) per cent. by weight, minimum 20',
-      '(v) Benzyl alcohol (Preservative) per cent. by weight, minimum 0.2',
-      '(vi) Water percent. by weight 38.9',
-      '(vii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Total amino acids per cent. by weight, minimum 18',
-      '(ii) Free amino acids per cent. by weight, minimum 1.5',
-      '(iii) Mannitol per cent. by weight, minimum 1.14',
-      '(iv) Alginic acid per cent. by weight, minimum 1.0 (v) pH (1% aqueous solution) 5.0 - 6.5',
-      '(vi) Specific gravity 1.22- 1.25 (vii) Total organic carbon per cent. by weight, minimum 20',
-      '(viii) Total dissolved solids per cent. by weight, minimum 46',
-      '(ix) Solubility per cent. by weight, minimum 95'
-    ]
-  },
-  {
-    brand: 'Nutri Urja',
-    displayName: 'Nutri Urja',
-    specification: 'Mixture of Amino acids, Humic and Fulvic acid (liquid)',
-    category: 'Mixed Formulation',
-    crops: ['Chilli'],
-    dosage: [
-      'Three foliar applications at 270 ml/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i)  Amino acids per cent. by weight, minimum   0.91',
-      '(ii)  Humic acid per cent. by weight, minimum 9.00',
-      '(iii) Fulvic acid per cent. by weight, minimum 0.02',
-      '(iv) Potassium as K2 O per cent. by weight, maximum 3.00',
-      '(v) Potassium sorbate per cent. by weight, maximum 0.20',
-      '(vi) Lignosulphonate per cent. by weight, maximum 3.00',
-      '(vii) Water per cent. by weight, maximum QS',
-      '(viii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Amino acids per cent. by weight, minimum 0.91',
-      '(ii) Humic acid per cent. by weight, minimum 9.00',
-      '(iii) Fulvic acid per cent. by weight, minimum 0.02',
-      '(iv) pH (5% aqueous solution) 5.5- 6.5',
-      '(v) Total organic carbon per cent. by weight, minimum 7.50',
-      '(vi) Specific gravity 1.21± 0.05',
-      '(vii) Solubility per cent. by weight, minimum  90.0'
-    ]
-  },
-  {
-    brand: 'Root Magic Gel',
-    displayName: 'Root Magic Gel',
-    specification: 'Mixture of Humic acid and Seaweed extract (Gel)',
-    category: 'Mixed Formulation',
-    crops: ['Potato'],
-    dosage: [
-      'One soil applications at 3 kg/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i)  Humic acid (Source: Leonardite) per cent. by weight, minimum  4.0',
-      '(ii)  Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 2.0',
-      '(iii) Xanthum gum per cent. by weight, maximum 2.0',
-      '(iv) Glycerine per cent. by weight, maximum 5.0',
-      '(v) Potassium sorbate per cent. by weight, maximum 0.20',
-      '(vi) Citric acid per cent. by weight, maximum 0.50',
-      '(vii) Potassium as K2 O per cent. by weight, maximum 2.0',
-      '(viii) Water per cent. by weight, maximum QS',
-      '(ix) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 0.50',
-      '(ii) Humic acid per cent. by weight, minimum 4.0',
-      '(iii) pH (5% aqueous solution) 5.0- 6.0',
-      '(iv) Specific gravity 1.046 ± 0.05',
-      '(v) Total organic carbon per cent. by weight, minimum 7.50',
-      '(vi) Solubility per cent. by weight, minimum  90',
-      '(vii) Total dissolved solids per cent. by weight, minimum 4.12'
-    ]
-  },
-  {
-    brand: 'Sarvottam',
-    displayName: 'Sarvottam',
-    specification: 'Mixture of Seaweed extract, Protein hydrolysate and Humic acid (Liquid)',
-    category: 'Mixed Formulation',
-    crops: ['Tomato'],
-    dosage: [
-      'Three soil applications at 2500 ml/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) fermented extract per cent. by weight, minimum 14.00',
-      '(ii) Protein hydrolysate derived from maize kernel through enzymatic (Saccharomyces protease) hydrolysis per cent. by weight, minimum 4.00',
-      '(iii) Humic acid (as Potassium humate) (Source: Leonardite) per cent. by weight, minimum 0.90',
-      '(iv) Lactic acid per cent. by weight, maximum 0.50',
-      '(v) Water per cent. by weight, maximum 80.60',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Total amino acid per cent. by weight, minimum 4.00',
-      '(ii) Free amino acids per cent. by weight, minimum 4.00',
-      '(iii) Humic acid per cent. by weight, minimum 0.90',
-      '(iv) Alginic acid per cent. by weight, minimum 0.21',
-      '(v) pH (10% aqueous solution) 4.5- 6.0',
-      '(vi) Specific gravity 1.0- 1.2',
-      '(vii) Total dissolved solids per cent. by weight, minimum 18.00',
-      '(viii) Solubility per cent. by weight, minimum 99.0',
-      '(ix) Total organic carbon per cent. by weight, minimum 6.0'
-    ]
-  },
-  {
-    brand: 'Pro Vital',
-    displayName: 'Pro Vital',
-    specification: 'Mixture of Protein Hydrolysate and Seaweed extract (Liquid)',
-    category: 'Mixed Formulation',
-    crops: ['Paddy', 'Tomato'],
-    dosage: [
-      'Paddy:Two foliar sprays at 1000 ml/ha',
-      'Tomato :Two foliar sprays at 1000 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Protein hydrolysate derived from Sus domesticus (animal source) through enzymatic (protease) hydrolysis per cent. by weight, minimum 52.98',
-      '(ii) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 10',
-      '(iii) Propyl paraben per cent. by weight, minimum 0.34',
-      '(iv) Water per cent. by weight 36.68',
-      '(v) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 1.50',
-      '(ii) Fucoidan per cent. by weight, minimum 0.19',
-      '(iii) Free amino acids per cent. by weight, minimum 15.15',
-      '(iv) Total dissolved solids per cent. by weight, minimum 44',
-      '(v) pH (1% aqueous solution) 7.4± 0.5',
-      '(vi) Total organic matter per cent. by weight, minimum 26.5',
-      '(vii) Specific gravity 1.21± 0.02',
-      '(viii) Solubility per cent. by weight, minimum 100'
-    ]
-  },
-  {
-    brand: 'Dhara Sampada',
-    displayName: 'Dhara Sampada',
-    specification: 'Mixture of Seaweed extract and Humic substances (Granule)',
-    category: 'Mixed Formulation',
-    crops: ['Rice'],
-    dosage: [
-      'Three soil applications at 18.75 kg/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i)   Seaweed extract [Mixture of brown (Sargassum tenerrimum, S. swartzii or S. wightii) and red (Kappaphycus alvarezii or K. striatus) seaweed in ratio of 3:1] per cent. by weight, minimum  10',
-      '(ii) Bio catalytically modified humin (Source: weathered coal treated with phenol oxidase) per cent. by weight, minimum 10',
-      '(iii)  Inert fillers: Natural Kaolin clay/Gypsum/Dolomite (Mixture of any two or three) per cent. by weight, maximum QS',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Humic acid per cent. by weight, minimum 1.0',
-      '(ii) Alginic Acid per cent. by weight, minimum 0.4',
-      '(iii) Carrageenan per cent. by weight, minimum 0.01',
-      '(iv) pH (50% aqueous solution)  6.0- 8.5',
-      '(v) Bulk density (gram/cc) 1.10- 1.20',
-      '(vi) Total organic carbon per cent. by weight, minimum 5.0'
-    ]
-  },
-  {
-    brand: 'MahaShakti Powder',
-    displayName: 'MahaShakti Powder',
-    specification: 'Mixture of Seaweed extract, Protein Hydrolysate and Humic acid (Powder)',
-    category: 'Mixed Formulation',
-    crops: ['Okra'],
-    dosage: [
-      'Two foliar applications at 500 g/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 22',
-      '(ii) Protein hydrolysates derived from gelatin through chemical Hydrolysis with calcium hydroxide and neutralized with sulphuric acid per cent. by weight, minimum 8',
-      '(iii) Humic acid (Source: Leonardite) per cent. by weight, minimum 58',
-      '(iv) Potassium sulphate per cent. by weight, minimum 5',
-      '(v)  Calcium hydrogen phosphate (as inert) per cent. by weight, minimum 1',
-      '(vi) Malic acid per cent. by weight (vi) 6 Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i)  Alginic acid per cent. by weight, minimum 2.26',
-      '(ii)Total amino acid per cent. by weight, minimum1.67',
-      '(iii)   Free amino acids acid per cent. by weight, minimum 0.33',
-      '(iv)  Humic acid per cent. by weight, minimum 8',
-      '(v)  pH (1% aqueous solution)  5.78',
-      '(vi)Total organic carbon per cent. by weight, minimum 26.11',
-      '(vii) Total dissolved solids per cent. by weight, minimum) 7.85',
-      '(viii Bulk density (g/ml)  1.4482',
-      '(ix) Solubility per cent. by weight, minimum 99.91'
-    ]
-  },
-  {
-    brand: 'Yield Sampada',
-    displayName: 'Yield Sampada',
-    specification: 'Mixture of Seaweed extract, Protein Hydrolysate and Humic acid (Granule)',
-    category: 'Mixed Formulation',
-    crops: ['Groundnut'],
-    dosage: [
-      'Two soil applications at 7.5 kg/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 0.83',
-      '(ii) Protein hydrolysates derived from gelatin through chemical Hydrolysis with calcium hydroxide and neutralized with sulphuric acid per cent. by weight, minimum 0.33',
-      '(iii) Humic acid (Source: Leonardite) per cent. by weight, minimum 1.3',
-      '(iv) Calcium hydrogen phosphate (as inert) per cent. by weight, minimum 1.0',
-      '(v) Dolomite granules (as carrier) per cent. by weight, minimum 96.54',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 0.08',
-      '(ii) Total amino acid per cent. by weight, minimum 0.12',
-      '(iii) Humic acid per cent. by weight, minimum 0.57',
-      '(iv) pH (1% solution) 7.78± 0.5',
-      '(v) Total organic carbon per cent. by weight, minimum 6.11',
-      '(vi) Total dissolved solids per cent. by weight, minimum 0.79',
-      '(vii) Bulk density (g/cc) 1.1491± 0.02',
-      '(viii) Solubility per cent. by weight, minimum 30.26'
-    ]
-  },
-  {
-    brand: 'Glyci Grow',
-    displayName: 'Glyci Grow',
-    specification: 'Glycine 5% (Powder)',
-    category: 'Protein Hydrolysates and Amino Acids',
-    crops: ['Brinjal'],
-    dosage: [
-      'Three foliar applications at 1000g/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Glycine per cent. by weight, minimum 5',
-      '(ii) Dextrin per cent. by weight, maximum 95',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Glycine content per cent. by weight, minimum 5',
-      '(ii) pH (1 % aqueous solution) 3.6± 0.5',
-      '(iii) Total organic carbon per cent. by weight, minimum 47.28',
-      '(iv) Bulk density (g/ml) 0.62± 0.02',
-      '(v) Solubility per cent. by weight, minimum 90.28'
-    ]
-  },
-  {
-    brand: 'UrjaPro 20',
-    displayName: 'UrjaPro 20',
-    specification: 'Protein hydrolysate 20% (Liquid)',
-    category: 'Protein Hydrolysates and Amino Acids',
-    crops: ['Rice'],
-    dosage: [
-      'Two foliar applications at 625 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Protein hydrolysate derived from hydrolysis of defatted flour of Glycine max and Zea mays in ratio of 5.5: 4.5 by enzyme (Papaine) per cent. by weight, minimum 30',
-      '(ii) Water per cent. by weight QS',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Total amino acids per cent. by weight, minimum 26',
-      '(ii) Free amino acids per cent. by weight, minimum 20',
-      '(iii) pH (10 % aqueous solution)  4.82  ± 0.5',
-      '(iv) Specific Gravity 1.1637 ± 0.02 (v) Total organic carbon per cent. by weight, minimum 19.71',
-      '(vi) Solubility per cent. by weight, minimum 99.05'
-    ]
-  },
-  {
-    brand: 'VanPoshan',
-    displayName: 'VanPoshan',
-    specification: 'Protein hydrolysate (Plant Source) (Liquid)',
-    category: 'Protein Hydrolysates and Amino Acids',
-    crops: ['Tomato'],
-    dosage: [
-      'Three Soil drenching applications at 1250 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Protein hydrolysate derived from Zea mays seeds through hydrolysis by hydrochloric acid per cent. by weight, minimum 38.13',
-      '(ii) Zinc sulphate monohydrate per cent. by weight 0.26',
-      '(iii) Oxidized lignins per cent. by weight 16.10',
-      '(iv) Inositol per cent. by weight 0.43',
-      '(v) Xanthum gum per cent. by weight 0.05',
-      '(vi) Dimethyl polysiloxane per cent. by weight 0.09',
-      '(vii) Diethylene glycol per cent. by weight 0.33',
-      '(viii) Bronopol Mix, 5- Chloro-2- Methyl- 1,2- thiazol- 3(2H)-one and 2- methyl-1,2- thiazol-3 (2H)-on per cent. by weight 0.31',
-      '(ix) Water per cent. by weight QS',
-      '(x) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Free amino acids per cent. by weight, minimum 1.6',
-      '(ii) Total amino acid per cent. by weight, minimum 2.4',
-      '(iii) Specific gravity  1.035 -  1.100',
-      '(iv) pH (as such) 2.50  -  4.00',
-      '(v) Solubility per cent. by weight, minimum 99.99',
-      '(vi) Total organic carbon per cent. by weight, minimum 5.15',
-      '(vii) Total dissolved solids per cent. by weight, minimum 14.99'
-    ]
-  },
-  {
-    brand: 'UrjaPro Plus',
-    displayName: 'UrjaPro Plus',
-    specification: 'Protein hydrolysate 20% (Plant source) (liquid)',
-    category: 'Protein Hydrolysates and Amino Acids',
-    crops: ['Chickpea'],
-    dosage: [
-      'Two foliar applications at 1500 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Protein hydrolysate derived from seeds of Zea mays through hydrolysis by using alkaline protease and hydrochloric acid per cent. by weight, minimum 20',
-      '(ii) Water per cent. by weight QS',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Total amino acids per cent. by weight, minimum 20',
-      '(ii) Free amino acids per cent. by weight, minimum 20',
-      '(iii) pH (10% aqueous solution) 2.50 ± 0.70',
-      '(vi)  Specific gravity  1.20  ± 0.10',
-      '(v) Total organic carbon per cent. by weight, minimum 18',
-      '(vi) Total dissolved solids per cent. by weight, minimum  50',
-      '(vii)  Solubility per cent. by weight, minimum 99'
-    ]
-  },
-  {
-    brand: 'AminoVeda',
-    displayName: 'AminoVeda',
-    specification: 'Amino acids (microbial source) 40% (Powder)',
-    category: 'Protein Hydrolysates and Amino Acids',
-    crops: ['Soybean', 'Chilli'],
-    dosage: [
-      'Soybean:Two foliar applications at 625 gram/ha',
-      'Chilli:Two foliar applications at 625 gram/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Amino acids (Source: Microbe- Corynebacterium glutamicum) per cent. by weight, minimum  40',
-      '(ii) Maltodextrin per cent. by weight 50',
-      '(iii) Precipitated Silica (as anti-caking agent) per cent. by weight 5',
-      '(iv) Moisture per cent. by weight 5',
-      '(v) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Total amino acids per cent. by weight, minimum  40',
-      '(ii) pH (1% aqueous solution)  5.0- 7.5',
-      '(iii) Bulk density (g/cc) 0.70-0.99',
-      '(iv) Total organic carbon per cent. by weight, minimum  30',
-      '(v) Solubility per cent. by weight, minimum  90'
-    ]
-  },
-  {
-    brand: 'UrjaPro Ultra',
-    displayName: 'UrjaPro Ultra',
-    specification: 'Protein hydrolysate 57% (Plant source) (Liquid)',
-    category: 'Protein Hydrolysates and Amino Acids',
-    crops: ['Bottlegourd'],
-    dosage: [
-      'Two foliar applications at 500 ml/ha'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E)',
-    composition: [
-      '(i) Protein hydrolysate derived from Guar Korma through alkaline (KOH) hydrolysis per cent. by weight, minimum 57.0',
-      '(ii) Potassium salt per cent. by weight, maximum 5.5',
-      '(iii) Sodium methyl parabens per cent. by weight, maximum 0.9',
-      '(iv) Sodium propyl parabens per cent. by weight, maximum 0.1',
-      '(v) Water per cent. by weight, maximum 36.5',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Amino acids percent. by weight, minimum 30',
-      '(ii) pH (1% aqueous solution) 6.8- 7.4',
-      '(iii) Specific gravity 1.180 ± 0.02',
-      '(iv) Total dissolved solids per cent. by weight, minimum 55',
-      '(v) Total organic carbon per cent. by weight, minimum 22.20',
-      '(vi) Solubility per cent. by weight, minimum 95'
-    ]
-  },
-  {
-    brand: 'Vana Vigor',
-    displayName: 'Vana Vigor',
-    specification: 'Adhatoda vasica Extract 2% (Liquid)',
-    category: 'Botanical Extract',
-    crops: ['Chilli', 'Tomato'],
-    dosage: [
-      'Three foliar sprays at 2 L/ha.'
-    ],
-    gazette: '26th May, 2025 S.O. 2346E',
-    composition: [
-      '(i)  Adhatoda vasica (leaf) extract per cent. by weight, minimum 2',
-      '(ii)  N propanol as solvent per cent. weight by volume, maximum 20',
-      '(iii) Vegetable (soybean) oil per cent. weight by volume, maximum 78',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i)  Vasicine ppm, minimum 100',
-      '(ii)  Specific gravity 0.89-1.09',
-      '(iii)  pH (1 % aqueous solution) 6.5- 7.5',
-      '(iv)  Solubility per cent., minimum 100'
-    ]
-  },
-  {
-    brand: 'Vana Amrit',
-    displayName: 'Vana Amrit',
-    specification: 'Adhatoda vasica Extract 2% (Liquid)',
-    category: 'Botanical Extract',
-    crops: ['Chilli', 'Tomato'],
-    dosage: [
-      'Chilli – Three foliar applications at 1,000 ml/ha',
-      'Tomato – Three foliar applications at 1,250 ml/ha.'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Plant extract (Adhatoda vasica) per cent. by weight, minimum 2.0',
-      '(ii) Adjuvant (Polyoxyethylene sorbitan trioleate) per cent. by weight, minimum 50',
-      '(iii) Vegetable (soybean) oil per cent. by weight 48.0',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Vasicine ppm, minimum 100',
-      '(ii) pH (1% aqueous solution) 6.5-7.5',
-      '(iii) Total organic carbon in % w/w 38',
-      '(iv) Total dissolved solids per cent. by weight, minimum 1.5',
-      '(v) Specific gravity 0.85-1.05',
-      '(vi) Solubility per cent. by weight 100'
-    ]
-  },
-  {
-    brand: 'Kineti Veda',
-    displayName: 'Kineti Veda',
-    specification: 'Cytokinin (Zea mays Kernel) 0.2% (Liquid)',
+    brand: 'Kineti Veda 75',
+    displayName: 'Kineti Veda 75',
+    specification: 'Cytokinin (Zea mays kernel) 0.2% (Liquid)',
     category: 'Botanical Extract',
     crops: ['Capsicum'],
     dosage: [
-      'Three foliar applications at 750 ml/ha.'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Cytokinin  (Source: Zea mays kernel) per cent. weight by volume, minimum  0.02',
-      '(ii) Potassium sorbate per cent. weight by volume, minimum 0.001',
-      '(iii) Demineralized aqua per cent. by weight QS',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Cytokinin per cent. weight by volume, minimum 0.02',
-      '(ii) pH (10 % Solution) 6.5± 0.5',
-      '(iii) Organic carbon per cent. by weight, minimum 0.91',
-      '(iv) Specific gravity 1.01± 0.02',
-      '(v) Solubility per cent. by weight, minimum 100',
-      '(vi) Total dissolved solids per cent. by weight, minimum 0.15'
-    ]
-  },
-  {
-    brand: 'Bhoomi Veda',
-    displayName: 'Bhoomi Veda',
-    specification: 'Humates (12.5%) (Liquid)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
-    crops: ['Green Gram'],
-    dosage: [
-      'Two soil applications at 5.0 l/ha.'
+      'Three foliar applications at 750 ml/ha'
     ],
     gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i) Humic acid (Source: American Leonardite) per cent. by weight, minimum 10.0',
-      '(ii) Fulvic acid (Source: American Leonardite) per cent. by weight, minimum 2.5',
-      '(iii) Tetrapotassium pyrophosphate per cent. by weight, minimum 0.9',
-      '(iv) Potassium hydroxide 50% solution per cent. by weight, minimum 10.0',
-      '(v)  Alcoxylated fatty acid ester on vegetable base per cent. by weight, minimum 0.7',
-      '(vi) Water per cent. by weight QS',
-      '(vii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Humic acid per cent. by weight, minimum 10.0',
-      '(ii) Fulvic acid per cent. by weight, minimum 2.5',
-      '(iii) Specific gravity 1.0- 1.20',
-      '(iv) pH (10 % aqueous solution) 12 -14',
-      '(v) Total organic carbon per cent. by weight, minimum 3.49',
-      '(vi) Solubility per cent. by weight, minimum 98'
-    ]
-  },
-  {
-    brand: 'Dhara Gold',
-    displayName: 'Dhara Gold',
-    specification: 'Humalite 100% (Granular powder)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
-    crops: ['Ridge Gourd'],
-    dosage: [
-      'One soil application at 112.5 kg/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Humalite (Source:  weathered sub-bituminous coal) per cent. by weight, minimum 100',
-      '(ii) Total (per cent.)   100'
-    ],
-    specifications: [
-      '(i) Value Humic acid per cent. by weight, minimum  40.8',
-      '(ii)Fulvic acid per cent. by weight, minimum 1',
-      '(iii) pH (10% aqueous solution) 3.9',
-      '(iv)  Total organic carbon per cent. by weight, minimum 24',
-      '(v)  Bulk density (g/cc)  0.74 ± 0.02',
-      '(vi) Solubility per cent. by weight, minimum 6.3'
-    ]
-  },
-  {
-    brand: 'Humi Shine',
-    displayName: 'Humi Shine',
-    specification: 'Humic substance 16% (Liquid)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
-    crops: ['Pineapple'],
-    dosage: [
-      'Two foliar applications at 1500 ml/ha.'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Humic substance (Source: renewable composted agri biomass) per cent. by weight, minimum   16.0',
-      '(ii) Soluble Energizers (co-extracted substances including carbohydrates, peptides and trace amount of nutrients) per cent. by weight, minimum  4',
-      '(iii) Water per cent. by weight QS',
-      '(iv)   Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Humic acid per cent. by weight, minimum  0.30',
-      '(ii)  Fulvic acid per cent. by weight, minimum  0.40',
-      '(iii) Total organic carbon per cent. by weight, minimum   0.93',
-      '(iv) pH (1% aqueous solution) 7.0 – 9.5',
-      '(v)  Specific gravity  1.05 -1.20',
-      '(vi)  Solubility per cent. by weight 100'
-    ]
-  },
-  {
-    brand: 'Mitti Ratna',
-    displayName: 'Mitti Ratna',
-    specification: 'Humic acid 50% (Powder)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
-    crops: ['Chilli'],
-    dosage: [
-      'Two soil applications at 10kg/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Humic acid (Source: Plant derived) per cent. by weight, minimum 50',
-      '(ii) Lactose per cent. by weight QS',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Humic acid per cent. by weight, minimum 50',
-      '(ii) pH(1% aqueous solution) 6- 8',
-      '(iii) Bulk density (gram/cc)  0.70 ± 0.02',
-      '(iv) Total organic carbon per cent. by weight, minimum 32',
-      '(v) Solubility per cent. by weight, minimum 65'
-    ]
-  },
-  {
-    brand: 'RootZest Crystal',
-    displayName: 'RootZest Crystal',
-    specification: 'Humic acid and Fulvic acid 45.1% (Crystal)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
-    crops: ['Rice'],
-    dosage: [
-      'Two foliar applications at 250g/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Humic acid (Source: lignite) per cent. by weight, minimum 45',
-      '(ii) Fulvic acid per cent. by weight, minimum 0.1',
-      '(iii) Potassium as K2O per cent. by weight 5',
-      '(iv) Bentonite powder per cent. by weight QS',
-      '(v) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Humic acid per cent. by weight, minimum 45',
-      '(ii) Fulvic acid per cent. by weight, minimum 0.1',
-      '(iii) pH (1%  aqueous solution) 8- 10',
-      '(iv) Specific gravity 0.6- 0.7',
-      '(v) Solubility per cent. by weight, minimum 90',
-      '(vi) Total organic carbon per cent. by weight, minimum 40'
-    ]
-  },
-  {
-    brand: 'Mool Shakti',
-    displayName: 'Mool Shakti',
-    specification: 'Humic acid and Fulvic acid 20.20 % (Liquid)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
-    crops: ['Tomato'],
-    dosage: [
-      'Three foliar applications at 2.5 litre/ha'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E).',
-    composition: [
-      '(i) Humic acid (Source: Leonardite) per cent. by weight, minimum 18.63',
-      '(ii) Fulvic acid per cent. by weight, minimum 1.57',
-      '(iii) Water per cent. by weight QS',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Humic acid per cent. by weight, minimum 18.63',
-      '(ii) Fulvic acid per cent. by weight, minimum 1.57',
-      '(iii) Total organic carbon per cent. by weight, minimum 13.29',
-      '(iv) pH (50% aqueous solution) 5.28± 0.5',
-      '(v) Specific gravity 1.186± 0.02',
-      '(vi) Solubility per cent. by weight, minimum 99.24'
-    ]
-  },
-  {
-    brand: 'Humi Flora',
-    displayName: 'Humi Flora',
-    specification: 'Humic acid and Fulvic acid 51% (Powder/Flake)',
-    category: 'Humic Acid and Fulvic Acid and their Derivatives',
-    crops: ['Rice'],
-    dosage: [
-      'Three applications (one soil and two foliar) at 1.875 kg/ha”'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E).',
-    composition: [
-      '(i) Humic substances (Source Browncoal/ Leonardite/ weathered coal), per cent. by weight, minimum 80',
-      '(ii) Alkali reagents (Potassium hydroxide, sodium hydroxide, dipotassium hydrogen phosphate, potassium carbonate) per cent. by weight, minimum 10',
-      '(iii) Water per cent. by weight, maximum QS',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Humic acid per cent. by weight, minimum 50.0',
-      '(ii) Fulvic acid per cent. by weight, minimum 1.00',
-      '(iii) Total organic carbon per cent. by weight, minimum 29.0',
-      '(iv) pH (50% aqueous solution) 9.0- 12.0',
-      '(v) Bulk density (gram/cc) 0.50- 0.90',
-      '(vi) Solubility per cent. by weight, minimum 70'
-    ]
-  },
-  {
-    brand: 'Sagar Shakti',
-    displayName: 'Sagar Shakti',
-    specification: 'Ascophyllum nodosum 15% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Green Gram'],
-    dosage: [
-      'Two foliar applications at 1500 ml/ha'
-    ],
-    gazette: '12th September, 2024 S.O. 3922(E)',
-    composition: [
-      '(i)  Alginic Acid per cent. by weight, minimum 1.5',
-      '(ii)  Mannitol per cent. by weight, minimum 1.0',
-      '(iii)  pH (10 % aqueous solution) 4.7 +   1.0',
-      '(iv)  Specific gravity 1.0 – 1.1',
-      '(v)  Total organic carbon per cent. by weight, minimum 5'
-    ],
-    specifications: [
-
-    ]
-  },
-  {
-    brand: 'Samudra Grow',
-    displayName: 'Samudra Grow',
-    specification: 'Sargassum tenerrimum 2%( Granular)',
-    category: 'Seaweed Extract',
-    crops: ['Paddy', 'Tomato'],
-    dosage: [
-      'Paddy: One soil application at 12.5 kg/ha.',
-      'Tomato: One soil application at 12.5 kg/ha.'
-    ],
-    gazette: '12th September, 2024 S.O. 3922(E).',
-    composition: [
-      '(i)  Alginic Acid per cent.by weight minimum 0.2',
-      '(ii)  pH (1:2 aqueous solution) 6.0 - 8.5',
-      '(iii)  Bulk density (g/cc) 0.95 – 1.1'
-    ],
-    specifications: [
-
-    ]
-  },
-  {
-    brand: 'Kelp Max Ultra',
-    displayName: 'Kelp Max Ultra',
-    specification: 'Seaweed (Kappaphycus alvarezii) extract 21% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Cucumber', 'Chilli'],
-    dosage: [
-      'Cucumber One foliar application at 1 litre/ha',
-      'Chilli Two foliar applications at 750 ml/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E).',
-    composition: [
-      '(i) Seaweed (Kappaphycus alvarezii) extract per cent. by weight, minimum 21',
-      '(ii) Organic acid (acetic acid, citric acid and lactic acid) per cent. by weight, minimum 3.0',
-      '(iii) Water per cent. by weight, maximum 76',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) D –Galactose-4-O-Sulphate per cent. by weight, minimum 6.00',
-      '(ii) Total carbohydrate per cent. by weight, minimum  7.50',
-      '(iii) Total dissolved solids per cent. by weight, minimum 24.00',
-      '(iv) Specific gravity 1.15-1.20',
-      '(v) pH (50 % aqueous solution) 3.0-5.0',
-      '(vi) Total organic carbon per cent by weight, minimum 5.8',
-      '(vii) Solubility per cent. by weight, minimum 98'
-    ]
-  },
-  {
-    brand: 'Sagar Vigor',
-    displayName: 'Sagar Vigor',
-    specification: 'Seaweed (Sargassum tenerrimum) 10% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Paddy', 'Tomato'],
-    dosage: [
-      'Paddy : One foliar application at 625 ml/ha.',
-      'Tomato: Two foliar applications at 625 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed extract (Sargassum tenerrimum ) per cent. by weight, minimum 10',
-      '(ii) Carbohydrates per cent. by weight, minimum 8',
-      '(iii) Octylphenol ethoxylate as adjuvant per cent. by weight, minimum 3.1',
-      '(iv) Sodium benzoate per cent. by weight, minimum 1.0',
-      '(v) Water per cent. by weight QS',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 0.88',
-      '(ii) Fucoidan per cent. by weight, minimum 0.49',
-      '(iii) Total dissolved solids per cent. by weight, minimum 22',
-      '(iv) pH (1% aqueous solution) 7.10- 7.50',
-      '(v) Specific gravity 1.10- 1.25',
-      '(vi) Total organic carbon per cent. by weight, minimum 3.01',
-      '(vii) Solubility per cent. by weight, minimum 99.23'
-    ]
-  },
-  {
-    brand: 'Flora Set',
-    displayName: 'Flora Set',
-    specification: 'Kappaphycus alvarezii 9.5% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Paddy'],
-    dosage: [
-      'Three foliar sprays at 1.0 l/ha'
-    ],
-    gazette: '26th May, 2025 S.O. 2346E',
-    composition: [
-      '(i)  Kappaphycus alvarezii extract per cent. by weight, minimum 9.5',
-      '(ii)  Organic acids (Acetic, Citric and Lactic acid) per cent. by weight, minimum  1.0',
-      '(iii) Water per cent. by weight 89.5',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i)  Carrageenan per cent. by weight, minimum 1.0',
-      '(ii)  Total dissolved solids per cent. by weight, minimum 10.5',
-      '(iii) Total organic carbon per cent. by weight, minimum 1.74',
-      '(iv)  Specific gravity 1.05- 1.15 (v)  pH (50 % aqueous solution) 3.0- 5.0',
-      '(vi)  Solubility per cent., minimum > 98'
-    ]
-  },
-  {
-    brand: 'Flora Set Plus',
-    displayName: 'Flora Set Plus',
-    specification: 'Seaweed (Kappaphycus alvarezii) extract- 17% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Cucumber', 'Tomato'],
-    dosage: [
-      'Cucumber: Three foliar applications at 1000 ml/ha',
-      'Tomato: Four foliar applications at 1000 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Seaweed (Kappaphycus alvarezii) extract) per cent. by volume, minimum 17',
-      '(ii) Organic acids (acetic acid, citric acid and lactic acid) per cent. by volume, minimum 2.5',
-      '(iii) Water per cent. by volume  QS',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Carrageenan per cent. by weight, minimum 4.2',
-      '(ii) Carbohydrates per cent. by weight, minimum 6.2',
-      '(iii) pH (50 % aqueous solution) 3- 5',
-      '(iv) Specific gravity 1.10- 1.15',
-      '(v) Solubility per cent. by weight, minimum 98',
-      '(vi) Total organic carbon per cent. by weight, minimum 4.8',
-      '(vii) Total dissolved solid per cent. by weight, minimum 19.5'
-    ]
-  },
-  {
-    brand: 'Samudra Shakti',
-    displayName: 'Samudra Shakti',
-    specification: 'Sargassum tenerrimum 1.2% (Granules)',
-    category: 'Seaweed Extract',
-    crops: ['Tomato', 'Rice'],
-    dosage: [
-      'Rice:-Two soil applications at 15 kg/ha',
-      'Tomato :Two soil applications at 17.5 kg/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed extract (Sargassum tenerrimum) per cent. by weight, minimum 1.2',
-      '(ii) Diethylene glycol per cent. by weight, minimum 0.15',
-      '(iii) Nonylphenol ethoxylate per cent. by weight, minimum 0.10',
-      '(iv) Bentonite granules per cent. by weight 98.55',
-      '(v) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 0.059',
-      '(ii) Fucoidan per cent. by weight, minimum 0.16',
-      '(iii)  pH (1% aqueous solution) 7.55 ± 0.5',
-      '(iv) Total dissolved solids per cent. by weight, minimum 1.5',
-      '(v) Bulk density (gram/cc) 1.137 ± 0.02',
-      '(vi) Organic carbon per cent. by weight, minimum 7.16',
-      '(vii) Solubility per cent. by weight, minimum 5.5'
-    ]
-  },
-  {
-    brand: 'Kelp Ratna',
-    displayName: 'Kelp Ratna',
-    specification: 'Ascophyllum nodosum 90% (Flakes)',
-    category: 'Seaweed Extract',
-    crops: ['Tomato'],
-    dosage: [
-      'Three foliar applications at 750g/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed extract (Ascophyllum nodosum) per cent. by weight, minimum  90',
-      '(ii) Moisture per cent. by weight, maximum 10',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum  4',
-      '(ii) Bulk density (g/ml) 0.527',
-      '(iii) pH (10% aqueous solution) 9.3+0.2',
-      '(iv) Total organic carbon per cent. by weight, minimum  30',
-      '(v) Solubility per cent. by weight, minimum 40'
-    ]
-  },
-  {
-    brand: 'Sea Vigor 22',
-    displayName: 'Sea Vigor 22',
-    specification: 'Ascophyllum nodosum 22% (liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Cotton', 'Soybean', 'Tomato'],
-    dosage: [
-      'Cotton :Three foliar applications at 625 ml/ha',
-      'Soybean : Two foliar applications at 625 ml/ha',
-      'Tomato : Three foliar applications at 625 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 22 %',
-      '(ii) Water per cent. by weight QS',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Mannitol per cent. by weight, minimum 0.1',
-      '(ii) pH (as such)  3.0-4.0',
-      '(iii) Total organic carbon, per cent. by weight  12',
-      '(iv) Total dissolved solids per cent. by weight, minimum 33',
-      '(v) Specific gravity  1.23',
-      '(vi) Solubility per cent. by weight, minimum 100'
-    ]
-  },
-  {
-    brand: 'Carra Boost',
-    displayName: 'Carra Boost',
-    specification: 'Carrabiitol (Kappaphycus alvarezii) 80% (Powder)',
-    category: 'Seaweed Extract',
-    crops: ['Soybean'],
-    dosage: [
-      'Three foliar applications at 75 g/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Carrabiitol (Source: Kappaphycus alvarezii) per cent. by weight, minimum 80',
-      '(ii) Potassium per cent. by weight, minimum   12 1, 2',
-      '(iii) Benzisothiazolin (Preservative) per cent. by weight, minimum 0.1',
-      '(iv) Moisture per cent. by weight 7.9',
-      '(v)  Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Value Carrabiitol per cent. by weight, minimum80',
-      '(ii)  pH (1% aqueous solution) 5.5- 6.5',
-      '(iii)  Total organic carbon per cent. by weight, minimum  20',
-      '(iv) Total dissolved solids per cent. by weight, minimum 95',
-      '(v)  Bulk density (gram/cc) 0.91- 0.96',
-      '(vi)  Solubility per cent. by weight, minimum  95'
-    ]
-  },
-  {
-    brand: 'Ocean Amrit',
-    displayName: 'Ocean Amrit',
-    specification: 'Ascophyllum nodosum 98% (liquid) )',
-    category: 'Seaweed Extract',
-    crops: ['Potato'],
-    dosage: [
-      'Two foliar sprays at 1250 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) liquid extract per cent. by weight, minimum 98',
-      '(ii) Blend of nitric and phosphoric acid in ratio of 3:2 per cent. by weight, minimum 1.6',
-      '(iii) Potassium sorbate 0.4',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 0.8',
-      '(ii) Fucoidan per cent. by weight, minimum 0.7',
-      '(iii) pH (1% aqueous solution) 5.5- 6.5',
-      '(iv) Total organic carbon per cent. by weight, minimum 2.32',
-      '(v) Total dissolved solids per cent. by weight, minimum 9',
-      '(vi) Specific gravity 1.04- 1.06',
-      '(vii) Solubility per cent. by weight, minimum 99.8'
-    ]
-  },
-  {
-    brand: 'Neel Moti',
-    displayName: 'Neel Moti',
-    specification: 'Seaweed (Sargassum wightii) extract 4 % (Granules)',
-    category: 'Seaweed Extract',
-    crops: ['Chilli'],
-    dosage: [
-      'Four soil application at 20kg/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Seaweed (Sargassum wightii) extract per cent. by weight, minimum 4',
-      '(ii) Bentonite per cent. by weight QS',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 0.2',
-      '(ii) Total dissolved solids per cent. by weight, minimum 3',
-      '(iii) Total organic carbon per cent. by weight, minimum 4',
-      '(iv) pH (1 % aqueous solution)  8-9',
-      '(v) Bulk density (gram/cc)    1-1.10',
-      '(vi) Solubility per cent. by weight, minimum 20'
-    ]
-  },
-  {
-    brand: 'Sagar Veda',
-    displayName: 'Sagar Veda',
-    specification: 'Seaweed (Ascophyllum nodosum) extract 18.4% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Tomato'],
-    dosage: [
-      'Three foliar applications at 1000 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 18.45',
-      '(ii) Water per cent. by weight 81.55',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 1.0',
-      '(ii) pH (10% aqueous solution) 4- 5',
-      '(iii) Total organic carbon per cent. by weight, minimum 0.37',
-      '(iv) Solubility per cent. by weight, minimum 99.45',
-      '(v) Specific gravity 1.50- 1.54',
-      '(vi)   Total dissolved solids per cent. by weight, minimum 18.45'
-    ]
-  },
-  {
-    brand: 'Ocean Vita',
-    displayName: 'Ocean Vita',
-    specification: 'Seaweed (Ascophyllum nodosum) extract 22% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Groundnut'],
-    dosage: [
-      'Two foliar applications at 500 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight 22',
-      '(ii) Glutamic acid and aspartic acid (as Chelating agent) per cent. by weight 1.51',
-      '(iii) Water per cent. by weight 76.49',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Mannitol per cent. by weight, minimum 0.1',
-      '(ii) Alginic acid per cent. by weight, minimum 0.1',
-      '(iii) pH (1% aqueous solution) 3.0- 4.0',
-      '(iv) Total organic carbon per cent. by weight, minimum 2.9',
-      '(vi) Specific gravity 1.2-1.4',
-      '(vii) Total dissolved solids per cent. by weight, minimum 10',
-      '(viii) Solubility per cent. by weight, minimum 99'
-    ]
-  },
-  {
-    brand: 'Samudra Gold',
-    displayName: 'Samudra Gold',
-    specification: 'Seaweed (Ascophyllum nodosum) extract 99.52 % (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Grapes', 'Cotton'],
-    dosage: [
-      'Grapes : Three foliar applications at 300 ml/ha',
-      'Cotton : Three foliar applications at 300 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3743(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 99.52',
-      '(ii) Sodium metabisulphite/ potassium sorbate per cent. by weight, minimum 0.48',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Mannitol per cent. weight by volume, minimum 2.4',
-      '(ii) pH ( undiluted)  2.10- 2.60',
-      '(iii) Total organic carbon per cent. by weight, minimum 5',
-      '(iv) Specific gravity  1.075- 1.145',
-      '(v) Total dissolved solids per cent. by weight, minimum 100'
-    ]
-  },
-  {
-    brand: 'Sea Vigor Max',
-    displayName: 'Sea Vigor Max',
-    specification: 'Seaweed(Ascophyllum nodosum) extract 30% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Brinjal'],
-    dosage: [
-      'Three foliar applications at 625 ml/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 30.0',
-      '(ii) Emulsifier (AF 711) per cent. by weight, maximum    20.0',
-      '(iii) Water per cent. by weight, maximum 50.0',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 2.09',
-      '(ii) pH (1%  aqueous dilution) 10.53± 0.5',
-      '(iii) Specific gravity 1.0056± 0.02',
-      '(iv) Total dissolved solids per cent. by weight, minimum 50',
-      '(v) Total organic carbon per cent. by weight, minimum 6.32',
-      '(vi) Solubility per cent. by weight, minimum 96.78'
-    ]
-  },
-  {
-    brand: 'Kelp Shakti',
-    displayName: 'Kelp Shakti',
-    specification: 'Seaweed (Ascophyllum nodosum) extract 100% (Powder)',
-    category: 'Seaweed Extract',
-    crops: ['Tomato'],
-    dosage: [
-      'Three foliar applications at 0.75 kg/ha'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract powder per cent. by weight, minimum 100',
-      '(ii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 10.0',
-      '(ii) Fucoidan per cent. by weight, minimum 10.0',
-      '(iii) Mannitol per cent. by weight, minimum 5.0',
-      '(iv) Amino acids per cent. by weight, minimum 2.0',
-      '(v) Total organic carbon per cent. by weight, minimum 26.10',
-      '(vi) pH (1 % aqueous solution) 9.5- 10.5',
-      '(vii) Bulk density (gram/cc) 0.55- 0.65',
-      '(viii) Solubility per cent. by weight, minimum 99.8'
-    ]
-  },
-  {
-    brand: 'Sagar Amrit',
-    displayName: 'Sagar Amrit',
-    specification: 'Seaweed (Ascophyllum nodosum) extract 30% (Liquid)',
-    category: 'Seaweed Extract',
-    crops: ['Rice'],
-    dosage: [
-      'Three foliar applications at 1000 ml/ha'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 30',
-      '(ii) Methylisothiazolinone (preservative) per cent. by weight, minimum 0.1',
-      '(iii) Water per cent. by weight, maximum QS',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 3.0',
-      '(ii) Mannitol per cent. by weight, minimum 1.0',
-      '(iii) pH (as such) 9.0- 11.0',
-      '(iv) Bulk density (gram/cc) 1.10- 1.25',
-      '(v) Total organic carbon per cent. by weight, minimum 9.50',
-      '(vi) Solubility per cent. by weight, minimum 97',
-      '(vii) Total dissolved solids per cent. by weight, minimum 30.0'
-    ]
-  },
-  {
-    brand: 'Ocean Flake',
-    displayName: 'Ocean Flake',
-    specification: 'Seaweed (Ascophyllum nodosum) extract-90 % (Powder/Flake)',
-    category: 'Seaweed Extract',
-    crops: ['Rice'],
-    dosage: [
-      'Three foliar applications at 1000 g/ha'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 90',
-      '(ii) Methylisothiazolinone (preservative) per cent. by weight, minimum 0.1',
-      '(iii) Water per cent. by weight, maximum QS',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 8.0',
-      '(ii) Mannitol per cent. by weight, minimum 3.0',
-      '(iii) pH (1% aqueous solution) 9.0- 11.0',
-      '(iv) Bulk density (gram/cc) 0.56- 0.75',
-      '(v) Total organic carbon per cent. by weight, minimum 28.0',
-      '(vi) Solubility per cent. by weight, minimum 96'
-    ]
-  },
-  {
-    brand: 'Prakriti Boost',
-    displayName: 'Prakriti Boost',
-    specification: 'Spirulina 10% (Liquid)',
-    category: 'Botanical Extract',
-    crops: ['Chilli', 'Tomato'],
-    dosage: [
-      'Two foliar sprays at 750 ml/ha'
-    ],
-    gazette: '26th May, 2025 S.O. 2346E',
-    composition: [
-      '(i)  Spirulina powder per cent. by weight, minimum 10',
-      '(ii)  Propylene glycol per cent. by weight, minimum 5',
-      '(iii) Lignin sulfonate per cent. by weight, minimum 5',
-      '(iv)  Polysaccharide per cent. by weight, minimum 0.1',
-      '(v)  Citric acid per cent. by weight, minimum 0.1',
-      '(vi)  Water per cent. by weight QS',
-      '(vii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i)  Protein per cent. by weight, minimum 6',
-      '(ii)  Specific gravity 1.00- 1.10',
-      '(iii)  pH (1% aqueous solution) 6.0- 9.0',
-      '(iv)  Solubility (as suspension) per cent., minimum 80'
-    ]
-  },
-  {
-    brand: 'Moringa Veda',
-    displayName: 'Moringa Veda',
-    specification: 'Botanical (Moringa oleifera) extract 13.5% (liquid)',
-    category: 'Botanical Extract',
-    crops: ['Tomato'],
-    dosage: [
-      'Three soil appliactions at 1000 ml/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i) Botanical (Moringa oleifera) extract per cent. by weight, minimum 13.5',
-      '(ii) Citric acid per cent. by weight, minimum 0.5',
-      '(iii) Water per cent. by weight, maximum 86',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Polyphenols per cent. by weight, minimum 0.03',
-      '(ii) Tannins per cent. by weight, minimum 0.04',
-      '(iii) pH (10% aqueous solution) 2.8- 4.8',
-      '(iv) Total organic carbon per cent. by weight, minimum 0.42',
-      '(v) Total dissolved solids per cent. by weight, minimum 0.067',
-      '(vi) Specific gravity 0.99- 1.00',
-      '(viii) Solubility per cent. by weight, minimum 99.0'
-    ]
-  },
-  {
-    brand: 'Moringa Shakti',
-    displayName: 'Moringa Shakti',
-    specification: 'Botanical (Moringa oleifera) extract 35% (Liquid)',
-    category: 'Botanical Extract',
-    crops: ['Chilli'],
-    dosage: [
-      'Three foliar applications at 500 ml/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i) Moringa oleifera leaf extract per cent. by weight, minimum 35.0',
-      '(ii) Potassium sorbate per cent. by weight, maximum 0.3',
-      '(iii) Glycerol per cent. by weight, maximum 15.0',
-      '(iv) Tween 80 per cent. by weight, maximum 0.5',
-      '(v) Dextrin per cent. by weight, maximum 0.3',
-      '(vi) Water per cent. by weight, maximum QS',
-      '(vii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Amino acid per cent. by weight, minimum 3.0',
-      '(ii) pH  (1% aqueous solution) 4.0- 5.0',
-      '(iii) Specific gravity 1.059 ± 0.05',
-      '(iv) Total organic carbon per cent. by weight, minimum 27.9',
-      '(v) Solubility per cent. by weight, minimum 80.0',
-      '(vi) Total dissolved solids per cent. by weight, minimum 20.0'
-    ]
-  },
-  {
-    brand: 'Moringa Amrit',
-    displayName: 'Moringa Amrit',
-    specification: 'Botanical (Moringa oleifera) extract 40% (Liquid)',
-    category: 'Botanical Extract',
-    crops: ['Chilli'],
-    dosage: [
-      'Three foliar applications at 500 ml/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i) Moringa oleifera leaf extract per cent. by weight, minimum 40.0',
-      '(ii) Potassium sorbate per cent. by weight, maximum 0.3',
-      '(iii) Glycerol per cent. by weight, maximum 12.0',
-      '(iv) Tween 80 per cent. by weight, maximum 0.5',
-      '(v) Water per cent. by weight, maximum QS',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Amino acid per cent. by weight, minimum 4.0',
-      '(ii) pH  (1% aqueous solution) 4.0- 5.0',
-      '(iii) Specific gravity 1.045± 0.05',
-      '(iv) Total organic carbon per cent. by weight, minimum 20.0',
-      '(v) Solubility per cent. by weight, minimum 76.0',
-      '(vi) Total dissolved solids per cent. by weight, minimum 18.0'
-    ]
-  },
-  {
-    brand: 'Citrus Kavach',
-    displayName: 'Citrus Kavach',
-    specification: 'Botanical (Citrus aurantium and palm oil) extract 18% (Liquid)',
-    category: 'Botanical Extract',
-    crops: ['Chilli'],
-    dosage: [
-      'Three foliar applications at 0.5 liter/ha'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E)',
-    composition: [
-      '(i) Citrus aurantium (bitter orange) extract per cent. by weight, maximum 8',
-      '(ii) Palm oil fatty acid blend (Octanoic acid) per cent. by weight, maximum 10',
-      '(iii) Glycerine per cent. by weight, maximum 35',
-      '(iv) Ethanol per cent. by weight, maximum 6',
-      '(v) Water per cent. by weight, maximum 39',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Total flavonoids per cent. by weight, minimum 5',
-      '(ii) Saponins per cent. by weight, minimum 5',
-      '(iii) Total dissolved solids per cent. by weight, minimum 20.08',
-      '(iv) pH (50% aqueous solution) 2.75 ± 0.5',
-      '(v) Specific gravity 1.09 ± 0.02',
-      '(vi) Solubility per cent. by weight, minimum 99.62',
-      '(vii) Total organic carbon per cent. by weight, minimum 34.53'
-    ]
-  },
-  {
-    brand: 'Green Sanjeevani',
-    displayName: 'Green Sanjeevani',
-    specification: 'Green algae (Chlorella vulgaris) extract 98% (liquid)',
-    category: 'Botanical Extract',
-    crops: ['Rice'],
-    dosage: [
-      'One foliar application at 2.5 litre/ha'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E)',
-    composition: [
-      '(i) Chlorella vulgaris aqueous extract per cent. by weight, minimum 98',
-      '(ii) Sodium benzoate per cent. by weight, minimum 1',
-      '(iii) EDTA as stabilizer per cent. by weight, maximum 1',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Free amino acids per cent. by weight, minimum 3.0',
-      '(ii) Flavonoids per cent. by weight, minimum 0.05',
-      '(iii) Total phenolics per cent. by weight, minimum 0.02',
-      '(iv) Total dissolved solids per cent. by weight, minimum 10.0',
-      '(v) Total organic carbon dry weight basis per cent. by weight, minimum 45',
-      '(vi) pH (10% aqueous solution) 7.5- 8.5',
-      '(vii) Specific gravity 1.01- 1.11',
-      '(viii) Solubility per cent. by weight, minimum 90'
-    ]
-  },
-  {
-    brand: 'Sampoorna Mix',
-    displayName: 'Sampoorna Mix',
-    specification: 'Mixture of Seaweed extract; Humic and Fulvic acid, Amino acids and Vitamins (Liquid)',
-    category: 'Mixed Formulation',
-    crops: ['Cotton'],
-    dosage: [
-      'Two foliar applictaions at 2 l/ha'
-    ],
-    gazette: '26th May, 2025 S.O. 2346E',
-    composition: [
-      '(i)  Sargassum wightii extract per cent. by weight, minimum 20',
-      '(ii)  Glycine per cent. by weight, minimum 10',
-      '(iii) Potassium fulvic humate per cent. by weight, minimum (Source: Leonardite) 10',
-      '(iv)  Vitamin C per cent. by weight, minimum 2.0',
-      '(v)  Water per cent. by weight QS',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i)  Alginic acid per cent. by weight, minimum 0.102',
-      '(ii)  Glycine per cent. by weight, minimum 10',
-      '(iii) Humic acid per cent. by weight, minimum 9.89',
-      '(iv)  Fulvic acid per cent. by weight, minimum 0.31',
-      '(v)  Vitamin C per cent. by weight, minimum 2.0',
-      '(vi)  Total dissolved solids 10.22',
-      '(vii)  Total organic carbon per cent. by weight, minimum 4.5',
-      '(viii)  pH (1 % aqueous solution)  8.70 ± 0.2',
-      '(ix)  Specific gravity 1.0097 ± 0.03',
-      '(x)  Solubility per cent., minimum 99.77'
-    ]
-  },
-  {
-    brand: 'Prakriti Vikas',
-    displayName: 'Prakriti Vikas',
-    specification: 'Mixture of Botanical extract and Seaweed extract (Liquid)',
-    category: 'Mixed Formulation',
-    crops: ['Tomato'],
-    dosage: [
-      'Three foliar applications at 3.75 l/ha'
-    ],
-    gazette: '26th May, 2025 S.O. 2346E',
-    composition: [
-      '(i)  Musa acuminata pseudostem per cent. by weight, minimum 75',
-      '(ii)  Sargassum tenerrimum per cent. by weight, minimum 4',
-      '(iii) Polysorbate 80 per cent. by weight, minimum 0.2',
-      '(iv)  Water per cent. by weight QS',
-      '(v)  Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i)  Polyphenols per cent. by weight, minimum 2',
-      '(ii)  Alginic acid per cent. by weight, minimum 0.1',
-      '(iii) Fucoidan per cent. by weight, minimum 2',
-      '(iv)  Total organic carbon per cent. by weight, minimum 4',
-      '(v)  Total dissolved solids per cent. by weight, minimum 3',
-      '(vi)  Specific gravity 1.07 ± 0.03',
-      '(vii)  pH (10% aqueous solution) 6- 8',
-      '(viii)  Solubility per cent., minimum 99.67'
-    ]
-  },
-  {
-    brand: 'Maha Shakti',
-    displayName: 'Maha Shakti',
-    specification: 'Mixture of Seaweed (Ascophyllum nodosum) extract, Protein hydrolysate and botanical extract (Liquid)',
-    category: 'Mixed Formulation',
-    crops: ['Chilli'],
-    dosage: [
-      'Four foliar applications at 2000 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight 24',
-      '(ii) Protein hydrolysate derived from plant sources',
-      '(sugar beet root : Soy seed flour : maize kernel in ratio of 4:3:3) through chemical (sulphuric acid and lime (Calcium hydroxide) hydrolysis  per cent. by weight, minimum 16',
-      '(iii) Botanical (Lemon grass; leaves) extract per cent. by weight, minimum 0.9',
-      '(iv) Sugar syrup (Beet sugar) per cent. by weight, minimum 20',
-      '(v) Benzyl alcohol (Preservative) per cent. by weight, minimum 0.2',
-      '(vi) Water percent. by weight 38.9',
-      '(vii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Total amino acids per cent. by weight, minimum 18',
-      '(ii) Free amino acids per cent. by weight, minimum 1.5',
-      '(iii) Mannitol per cent. by weight, minimum 1.14',
-      '(iv) Alginic acid per cent. by weight, minimum 1.0 (v) pH (1% aqueous solution) 5.0 - 6.5',
-      '(vi) Specific gravity 1.22- 1.25 (vii) Total organic carbon per cent. by weight, minimum 20',
-      '(viii) Total dissolved solids per cent. by weight, minimum 46',
-      '(ix) Solubility per cent. by weight, minimum 95'
-    ]
-  },
-  {
-    brand: 'Nutri Urja',
-    displayName: 'Nutri Urja',
-    specification: 'Mixture of Amino acids, Humic and Fulvic acid (liquid)',
-    category: 'Mixed Formulation',
-    crops: ['Chilli'],
-    dosage: [
-      'Three foliar applications at 270 ml/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i)  Amino acids per cent. by weight, minimum   0.91',
-      '(ii)  Humic acid per cent. by weight, minimum 9.00',
-      '(iii) Fulvic acid per cent. by weight, minimum 0.02',
-      '(iv) Potassium as K2 O per cent. by weight, maximum 3.00',
-      '(v) Potassium sorbate per cent. by weight, maximum 0.20',
-      '(vi) Lignosulphonate per cent. by weight, maximum 3.00',
-      '(vii) Water per cent. by weight, maximum QS',
-      '(viii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Amino acids per cent. by weight, minimum 0.91',
-      '(ii) Humic acid per cent. by weight, minimum 9.00',
-      '(iii) Fulvic acid per cent. by weight, minimum 0.02',
-      '(iv) pH (5% aqueous solution) 5.5- 6.5',
-      '(v) Total organic carbon per cent. by weight, minimum 7.50',
-      '(vi) Specific gravity 1.21± 0.05',
-      '(vii) Solubility per cent. by weight, minimum  90.0'
-    ]
-  },
-  {
-    brand: 'Root Magic Gel',
-    displayName: 'Root Magic Gel',
-    specification: 'Mixture of Humic acid and Seaweed extract (Gel)',
-    category: 'Mixed Formulation',
-    crops: ['Potato'],
-    dosage: [
-      'One soil applications at 3 kg/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i)  Humic acid (Source: Leonardite) per cent. by weight, minimum  4.0',
-      '(ii)  Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 2.0',
-      '(iii) Xanthum gum per cent. by weight, maximum 2.0',
-      '(iv) Glycerine per cent. by weight, maximum 5.0',
-      '(v) Potassium sorbate per cent. by weight, maximum 0.20',
-      '(vi) Citric acid per cent. by weight, maximum 0.50',
-      '(vii) Potassium as K2 O per cent. by weight, maximum 2.0',
-      '(viii) Water per cent. by weight, maximum QS',
-      '(ix) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 0.50',
-      '(ii) Humic acid per cent. by weight, minimum 4.0',
-      '(iii) pH (5% aqueous solution) 5.0- 6.0',
-      '(iv) Specific gravity 1.046 ± 0.05',
-      '(v) Total organic carbon per cent. by weight, minimum 7.50',
-      '(vi) Solubility per cent. by weight, minimum  90',
-      '(vii) Total dissolved solids per cent. by weight, minimum 4.12'
-    ]
-  },
-  {
-    brand: 'Sarvottam',
-    displayName: 'Sarvottam',
-    specification: 'Mixture of Seaweed extract, Protein hydrolysate and Humic acid (Liquid)',
-    category: 'Mixed Formulation',
-    crops: ['Tomato'],
-    dosage: [
-      'Three soil applications at 2500 ml/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) fermented extract per cent. by weight, minimum 14.00',
-      '(ii) Protein hydrolysate derived from maize kernel through enzymatic (Saccharomyces protease) hydrolysis per cent. by weight, minimum 4.00',
-      '(iii) Humic acid (as Potassium humate) (Source: Leonardite) per cent. by weight, minimum 0.90',
-      '(iv) Lactic acid per cent. by weight, maximum 0.50',
-      '(v) Water per cent. by weight, maximum 80.60',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Total amino acid per cent. by weight, minimum 4.00',
-      '(ii) Free amino acids per cent. by weight, minimum 4.00',
-      '(iii) Humic acid per cent. by weight, minimum 0.90',
-      '(iv) Alginic acid per cent. by weight, minimum 0.21',
-      '(v) pH (10% aqueous solution) 4.5- 6.0',
-      '(vi) Specific gravity 1.0- 1.2',
-      '(vii) Total dissolved solids per cent. by weight, minimum 18.00',
-      '(viii) Solubility per cent. by weight, minimum 99.0',
-      '(ix) Total organic carbon per cent. by weight, minimum 6.0'
-    ]
-  },
-  {
-    brand: 'Pro Vital',
-    displayName: 'Pro Vital',
-    specification: 'Mixture of Protein Hydrolysate and Seaweed extract (Liquid)',
-    category: 'Mixed Formulation',
-    crops: ['Paddy', 'Tomato'],
-    dosage: [
-      'Paddy:Two foliar sprays at 1000 ml/ha',
-      'Tomato :Two foliar sprays at 1000 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Protein hydrolysate derived from Sus domesticus (animal source) through enzymatic (protease) hydrolysis per cent. by weight, minimum 52.98',
-      '(ii) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 10',
-      '(iii) Propyl paraben per cent. by weight, minimum 0.34',
-      '(iv) Water per cent. by weight 36.68',
-      '(v) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 1.50',
-      '(ii) Fucoidan per cent. by weight, minimum 0.19',
-      '(iii) Free amino acids per cent. by weight, minimum 15.15',
-      '(iv) Total dissolved solids per cent. by weight, minimum 44',
-      '(v) pH (1% aqueous solution) 7.4± 0.5',
-      '(vi) Total organic matter per cent. by weight, minimum 26.5',
-      '(vii) Specific gravity 1.21± 0.02',
-      '(viii) Solubility per cent. by weight, minimum 100'
-    ]
-  },
-  {
-    brand: 'Dhara Sampada',
-    displayName: 'Dhara Sampada',
-    specification: 'Mixture of Seaweed extract and Humic substances (Granule)',
-    category: 'Mixed Formulation',
-    crops: ['Rice'],
-    dosage: [
-      'Three soil applications at 18.75 kg/ha'
-    ],
-    gazette: '16th February, 2026 S.O. 876(E)',
-    composition: [
-      '(i)   Seaweed extract [Mixture of brown (Sargassum tenerrimum, S. swartzii or S. wightii) and red (Kappaphycus alvarezii or K. striatus) seaweed in ratio of 3:1] per cent. by weight, minimum  10',
-      '(ii) Bio catalytically modified humin (Source: weathered coal treated with phenol oxidase) per cent. by weight, minimum 10',
-      '(iii)  Inert fillers: Natural Kaolin clay/Gypsum/Dolomite (Mixture of any two or three) per cent. by weight, maximum QS',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Humic acid per cent. by weight, minimum 1.0',
-      '(ii) Alginic Acid per cent. by weight, minimum 0.4',
-      '(iii) Carrageenan per cent. by weight, minimum 0.01',
-      '(iv) pH (50% aqueous solution)  6.0- 8.5',
-      '(v) Bulk density (gram/cc) 1.10- 1.20',
-      '(vi) Total organic carbon per cent. by weight, minimum 5.0'
-    ]
-  },
-  {
-    brand: 'MahaShakti Powder',
-    displayName: 'MahaShakti Powder',
-    specification: 'Mixture of Seaweed extract, Protein Hydrolysate and Humic acid (Powder)',
-    category: 'Mixed Formulation',
-    crops: ['Okra'],
-    dosage: [
-      'Two foliar applications at 500 g/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 22',
-      '(ii) Protein hydrolysates derived from gelatin through chemical Hydrolysis with calcium hydroxide and neutralized with sulphuric acid per cent. by weight, minimum 8',
-      '(iii) Humic acid (Source: Leonardite) per cent. by weight, minimum 58',
-      '(iv) Potassium sulphate per cent. by weight, minimum 5',
-      '(v)  Calcium hydrogen phosphate (as inert) per cent. by weight, minimum 1',
-      '(vi) Malic acid per cent. by weight (vi) 6 Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i)  Alginic acid per cent. by weight, minimum 2.26',
-      '(ii)Total amino acid per cent. by weight, minimum1.67',
-      '(iii)   Free amino acids acid per cent. by weight, minimum 0.33',
-      '(iv)  Humic acid per cent. by weight, minimum 8',
-      '(v)  pH (1% aqueous solution)  5.78',
-      '(vi)Total organic carbon per cent. by weight, minimum 26.11',
-      '(vii) Total dissolved solids per cent. by weight, minimum) 7.85',
-      '(viii Bulk density (g/ml)  1.4482',
-      '(ix) Solubility per cent. by weight, minimum 99.91'
-    ]
-  },
-  {
-    brand: 'Yield Sampada',
-    displayName: 'Yield Sampada',
-    specification: 'Mixture of Seaweed extract, Protein Hydrolysate and Humic acid (Granule)',
-    category: 'Mixed Formulation',
-    crops: ['Groundnut'],
-    dosage: [
-      'Two soil applications at 7.5 kg/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum 0.83',
-      '(ii) Protein hydrolysates derived from gelatin through chemical Hydrolysis with calcium hydroxide and neutralized with sulphuric acid per cent. by weight, minimum 0.33',
-      '(iii) Humic acid (Source: Leonardite) per cent. by weight, minimum 1.3',
-      '(iv) Calcium hydrogen phosphate (as inert) per cent. by weight, minimum 1.0',
-      '(v) Dolomite granules (as carrier) per cent. by weight, minimum 96.54',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Alginic acid per cent. by weight, minimum 0.08',
-      '(ii) Total amino acid per cent. by weight, minimum 0.12',
-      '(iii) Humic acid per cent. by weight, minimum 0.57',
-      '(iv) pH (1% solution) 7.78± 0.5',
-      '(v) Total organic carbon per cent. by weight, minimum 6.11',
-      '(vi) Total dissolved solids per cent. by weight, minimum 0.79',
-      '(vii) Bulk density (g/cc) 1.1491± 0.02',
-      '(viii) Solubility per cent. by weight, minimum 30.26'
-    ]
-  },
-  {
-    brand: 'Glyci Grow',
-    displayName: 'Glyci Grow',
-    specification: 'Glycine 5% (Powder)',
-    category: 'Protein Hydrolysates and Amino Acids',
-    crops: ['Brinjal'],
-    dosage: [
-      'Three foliar applications at 1000g/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Glycine per cent. by weight, minimum 5',
-      '(ii) Dextrin per cent. by weight, maximum 95',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Glycine content per cent. by weight, minimum 5',
-      '(ii) pH (1 % aqueous solution) 3.6± 0.5',
-      '(iii) Total organic carbon per cent. by weight, minimum 47.28',
-      '(iv) Bulk density (g/ml) 0.62± 0.02',
-      '(v) Solubility per cent. by weight, minimum 90.28'
-    ]
-  },
-  {
-    brand: 'UrjaPro 20',
-    displayName: 'UrjaPro 20',
-    specification: 'Protein hydrolysate 20% (Liquid)',
-    category: 'Protein Hydrolysates and Amino Acids',
-    crops: ['Rice'],
-    dosage: [
-      'Two foliar applications at 625 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Protein hydrolysate derived from hydrolysis of defatted flour of Glycine max and Zea mays in ratio of 5.5: 4.5 by enzyme (Papaine) per cent. by weight, minimum 30',
-      '(ii) Water per cent. by weight QS',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Total amino acids per cent. by weight, minimum 26',
-      '(ii) Free amino acids per cent. by weight, minimum 20',
-      '(iii) pH (10 % aqueous solution)  4.82  ± 0.5',
-      '(iv) Specific Gravity 1.1637 ± 0.02 (v) Total organic carbon per cent. by weight, minimum 19.71',
-      '(vi) Solubility per cent. by weight, minimum 99.05'
-    ]
-  },
-  {
-    brand: 'VanPoshan',
-    displayName: 'VanPoshan',
-    specification: 'Protein hydrolysate (Plant Source) (Liquid)',
-    category: 'Protein Hydrolysates and Amino Acids',
-    crops: ['Tomato'],
-    dosage: [
-      'Three Soil drenching applications at 1250 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Protein hydrolysate derived from Zea mays seeds through hydrolysis by hydrochloric acid per cent. by weight, minimum 38.13',
-      '(ii) Zinc sulphate monohydrate per cent. by weight 0.26',
-      '(iii) Oxidized lignins per cent. by weight 16.10',
-      '(iv) Inositol per cent. by weight 0.43',
-      '(v) Xanthum gum per cent. by weight 0.05',
-      '(vi) Dimethyl polysiloxane per cent. by weight 0.09',
-      '(vii) Diethylene glycol per cent. by weight 0.33',
-      '(viii) Bronopol Mix, 5- Chloro-2- Methyl- 1,2- thiazol- 3(2H)-one and 2- methyl-1,2- thiazol-3 (2H)-on per cent. by weight 0.31',
-      '(ix) Water per cent. by weight QS',
-      '(x) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Free amino acids per cent. by weight, minimum 1.6',
-      '(ii) Total amino acid per cent. by weight, minimum 2.4',
-      '(iii) Specific gravity  1.035 -  1.100',
-      '(iv) pH (as such) 2.50  -  4.00',
-      '(v) Solubility per cent. by weight, minimum 99.99',
-      '(vi) Total organic carbon per cent. by weight, minimum 5.15',
-      '(vii) Total dissolved solids per cent. by weight, minimum 14.99'
-    ]
-  },
-  {
-    brand: 'UrjaPro Plus',
-    displayName: 'UrjaPro Plus',
-    specification: 'Protein hydrolysate 20% (Plant source) (liquid)',
-    category: 'Protein Hydrolysates and Amino Acids',
-    crops: ['Chickpea'],
-    dosage: [
-      'Two foliar applications at 1500 ml/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3742(E).',
-    composition: [
-      '(i) Protein hydrolysate derived from seeds of Zea mays through hydrolysis by using alkaline protease and hydrochloric acid per cent. by weight, minimum 20',
-      '(ii) Water per cent. by weight QS',
-      '(iii) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Total amino acids per cent. by weight, minimum 20',
-      '(ii) Free amino acids per cent. by weight, minimum 20',
-      '(iii) pH (10% aqueous solution) 2.50 ± 0.70',
-      '(vi)  Specific gravity  1.20  ± 0.10',
-      '(v) Total organic carbon per cent. by weight, minimum 18',
-      '(vi) Total dissolved solids per cent. by weight, minimum  50',
-      '(vii)  Solubility per cent. by weight, minimum 99'
-    ]
-  },
-  {
-    brand: 'AminoVeda',
-    displayName: 'AminoVeda',
-    specification: 'Amino acids (microbial source) 40% (Powder)',
-    category: 'Protein Hydrolysates and Amino Acids',
-    crops: ['Soybean', 'Chilli'],
-    dosage: [
-      'Soybean:Two foliar applications at 625 gram/ha',
-      'Chilli:Two foliar applications at 625 gram/ha'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Amino acids (Source: Microbe- Corynebacterium glutamicum) per cent. by weight, minimum  40',
-      '(ii) Maltodextrin per cent. by weight 50',
-      '(iii) Precipitated Silica (as anti-caking agent) per cent. by weight 5',
-      '(iv) Moisture per cent. by weight 5',
-      '(v) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Total amino acids per cent. by weight, minimum  40',
-      '(ii) pH (1% aqueous solution)  5.0- 7.5',
-      '(iii) Bulk density (g/cc) 0.70-0.99',
-      '(iv) Total organic carbon per cent. by weight, minimum  30',
-      '(v) Solubility per cent. by weight, minimum  90'
-    ]
-  },
-  {
-    brand: 'UrjaPro Ultra',
-    displayName: 'UrjaPro Ultra',
-    specification: 'Protein hydrolysate 57% (Plant source) (Liquid)',
-    category: 'Protein Hydrolysates and Amino Acids',
-    crops: ['Bottlegourd'],
-    dosage: [
-      'Two foliar applications at 500 ml/ha'
-    ],
-    gazette: '25th March, 2026 S.O. 1574(E)',
-    composition: [
-      '(i) Protein hydrolysate derived from Guar Korma through alkaline (KOH) hydrolysis per cent. by weight, minimum 57.0',
-      '(ii) Potassium salt per cent. by weight, maximum 5.5',
-      '(iii) Sodium methyl parabens per cent. by weight, maximum 0.9',
-      '(iv) Sodium propyl parabens per cent. by weight, maximum 0.1',
-      '(v) Water per cent. by weight, maximum 36.5',
-      '(vi) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Amino acids percent. by weight, minimum 30',
-      '(ii) pH (1% aqueous solution) 6.8- 7.4',
-      '(iii) Specific gravity 1.180 ± 0.02',
-      '(iv) Total dissolved solids per cent. by weight, minimum 55',
-      '(v) Total organic carbon per cent. by weight, minimum 22.20',
-      '(vi) Solubility per cent. by weight, minimum 95'
-    ]
-  },
-  {
-    brand: 'Vana Vigor',
-    displayName: 'Vana Vigor',
-    specification: 'Adhatoda vasica Extract 2% (Liquid)',
-    category: 'Botanical Extract',
-    crops: ['Chilli', 'Tomato'],
-    dosage: [
-      'Three foliar sprays at 2 L/ha.'
-    ],
-    gazette: '26th May, 2025 S.O. 2346E',
-    composition: [
-      '(i)  Adhatoda vasica (leaf) extract per cent. by weight, minimum 2',
-      '(ii)  N propanol as solvent per cent. weight by volume, maximum 20',
-      '(iii) Vegetable (soybean) oil per cent. weight by volume, maximum 78',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i)  Vasicine ppm, minimum 100',
-      '(ii)  Specific gravity 0.89-1.09',
-      '(iii)  pH (1 % aqueous solution) 6.5- 7.5',
-      '(iv)  Solubility per cent., minimum 100'
-    ]
-  },
-  {
-    brand: 'Vana Amrit',
-    displayName: 'Vana Amrit',
-    specification: 'Adhatoda vasica Extract 2% (Liquid)',
-    category: 'Botanical Extract',
-    crops: ['Chilli', 'Tomato'],
-    dosage: [
-      'Chilli – Three foliar applications at 1,000 ml/ha',
-      'Tomato – Three foliar applications at 1,250 ml/ha.'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
-    composition: [
-      '(i) Plant extract (Adhatoda vasica) per cent. by weight, minimum 2.0',
-      '(ii) Adjuvant (Polyoxyethylene sorbitan trioleate) per cent. by weight, minimum 50',
-      '(iii) Vegetable (soybean) oil per cent. by weight 48.0',
-      '(iv) Total (per cent.) 100'
-    ],
-    specifications: [
-      '(i) Vasicine ppm, minimum 100',
-      '(ii) pH (1% aqueous solution) 6.5-7.5',
-      '(iii) Total organic carbon in % w/w 38',
-      '(iv) Total dissolved solids per cent. by weight, minimum 1.5',
-      '(v) Specific gravity 0.85-1.05',
-      '(vi) Solubility per cent. by weight 100'
-    ]
-  },
-  {
-    brand: 'Kineti Veda',
-    displayName: 'Kineti Veda',
-    specification: 'Cytokinin (Zea mays Kernel) 0.2% (Liquid)',
-    category: 'Botanical Extract',
-    crops: ['Capsicum'],
-    dosage: [
-      'Three foliar applications at 750 ml/ha.'
-    ],
-    gazette: '13th August, 2025 S.O. 3741(E)',
     composition: [
       '(i) Cytokinin  (Source: Zea mays kernel) per cent. weight by volume, minimum  0.02',
       '(ii) Potassium sorbate per cent. weight by volume, minimum 0.001',
@@ -5137,6 +2651,132 @@ export const SLUG_TO_BRAND = {
   'Kineti Veda new': 'Kineti Veda',
   'kineti veda new': 'Kineti Veda',
   'Kineti%20Veda%20new': 'Kineti Veda',
+  'Bio Trigger': 'Bio Trigger',
+  'bio trigger': 'Bio Trigger',
+  'Bio-Trigger': 'Bio Trigger',
+  'bio-trigger': 'Bio Trigger',
+  'Bio%20Trigger': 'Bio Trigger',
+  'Bio Trigger-new': 'Bio Trigger',
+  'bio trigger-new': 'Bio Trigger',
+  'Bio-Trigger-new': 'Bio Trigger',
+  'bio-trigger-new': 'Bio Trigger',
+  'Bio%20Trigger-new': 'Bio Trigger',
+  'Bio Trigger/new': 'Bio Trigger',
+  'bio trigger/new': 'Bio Trigger',
+  'Bio-Trigger/new': 'Bio Trigger',
+  'bio-trigger/new': 'Bio Trigger',
+  'Bio%20Trigger/new': 'Bio Trigger',
+  'Bio Trigger new': 'Bio Trigger',
+  'bio trigger new': 'Bio Trigger',
+  'Bio%20Trigger%20new': 'Bio Trigger',
+  'Pido Vigor': 'Pido Vigor',
+  'pido vigor': 'Pido Vigor',
+  'Pido-Vigor': 'Pido Vigor',
+  'pido-vigor': 'Pido Vigor',
+  'Pido%20Vigor': 'Pido Vigor',
+  'Pido Vigor-new': 'Pido Vigor',
+  'pido vigor-new': 'Pido Vigor',
+  'Pido-Vigor-new': 'Pido Vigor',
+  'pido-vigor-new': 'Pido Vigor',
+  'Pido%20Vigor-new': 'Pido Vigor',
+  'Pido Vigor/new': 'Pido Vigor',
+  'pido vigor/new': 'Pido Vigor',
+  'Pido-Vigor/new': 'Pido Vigor',
+  'pido-vigor/new': 'Pido Vigor',
+  'Pido%20Vigor/new': 'Pido Vigor',
+  'Pido Vigor new': 'Pido Vigor',
+  'pido vigor new': 'Pido Vigor',
+  'Pido%20Vigor%20new': 'Pido Vigor',
+  'Vikas Folic': 'Vikas Folic',
+  'vikas folic': 'Vikas Folic',
+  'Vikas-Folic': 'Vikas Folic',
+  'vikas-folic': 'Vikas Folic',
+  'Vikas%20Folic': 'Vikas Folic',
+  'Vikas Folic-new': 'Vikas Folic',
+  'vikas folic-new': 'Vikas Folic',
+  'Vikas-Folic-new': 'Vikas Folic',
+  'vikas-folic-new': 'Vikas Folic',
+  'Vikas%20Folic-new': 'Vikas Folic',
+  'Vikas Folic/new': 'Vikas Folic',
+  'vikas folic/new': 'Vikas Folic',
+  'Vikas-Folic/new': 'Vikas Folic',
+  'vikas-folic/new': 'Vikas Folic',
+  'Vikas%20Folic/new': 'Vikas Folic',
+  'Vikas Folic new': 'Vikas Folic',
+  'vikas folic new': 'Vikas Folic',
+  'Vikas%20Folic%20new': 'Vikas Folic',
+  'Prakriti Shield': 'Prakriti Shield',
+  'prakriti shield': 'Prakriti Shield',
+  'Prakriti-Shield': 'Prakriti Shield',
+  'prakriti-shield': 'Prakriti Shield',
+  'Prakriti%20Shield': 'Prakriti Shield',
+  'Prakriti Shield-new': 'Prakriti Shield',
+  'prakriti shield-new': 'Prakriti Shield',
+  'Prakriti-Shield-new': 'Prakriti Shield',
+  'prakriti-shield-new': 'Prakriti Shield',
+  'Prakriti%20Shield-new': 'Prakriti Shield',
+  'Prakriti Shield/new': 'Prakriti Shield',
+  'prakriti shield/new': 'Prakriti Shield',
+  'Prakriti-Shield/new': 'Prakriti Shield',
+  'prakriti-shield/new': 'Prakriti Shield',
+  'Prakriti%20Shield/new': 'Prakriti Shield',
+  'Prakriti Shield new': 'Prakriti Shield',
+  'prakriti shield new': 'Prakriti Shield',
+  'Prakriti%20Shield%20new': 'Prakriti Shield',
+  'Jeevan Kavach': 'Jeevan Kavach',
+  'jeevan kavach': 'Jeevan Kavach',
+  'Jeevan-Kavach': 'Jeevan Kavach',
+  'jeevan-kavach': 'Jeevan Kavach',
+  'Jeevan%20Kavach': 'Jeevan Kavach',
+  'Jeevan Kavach-new': 'Jeevan Kavach',
+  'jeevan kavach-new': 'Jeevan Kavach',
+  'Jeevan-Kavach-new': 'Jeevan Kavach',
+  'jeevan-kavach-new': 'Jeevan Kavach',
+  'Jeevan%20Kavach-new': 'Jeevan Kavach',
+  'Jeevan Kavach/new': 'Jeevan Kavach',
+  'jeevan kavach/new': 'Jeevan Kavach',
+  'Jeevan-Kavach/new': 'Jeevan Kavach',
+  'jeevan-kavach/new': 'Jeevan Kavach',
+  'Jeevan%20Kavach/new': 'Jeevan Kavach',
+  'Jeevan Kavach new': 'Jeevan Kavach',
+  'jeevan kavach new': 'Jeevan Kavach',
+  'Jeevan%20Kavach%20new': 'Jeevan Kavach',
+  'Jal Kavach': 'Jal Kavach',
+  'jal kavach': 'Jal Kavach',
+  'Jal-Kavach': 'Jal Kavach',
+  'jal-kavach': 'Jal Kavach',
+  'Jal%20Kavach': 'Jal Kavach',
+  'Jal Kavach-new': 'Jal Kavach',
+  'jal kavach-new': 'Jal Kavach',
+  'Jal-Kavach-new': 'Jal Kavach',
+  'jal-kavach-new': 'Jal Kavach',
+  'Jal%20Kavach-new': 'Jal Kavach',
+  'Jal Kavach/new': 'Jal Kavach',
+  'jal kavach/new': 'Jal Kavach',
+  'Jal-Kavach/new': 'Jal Kavach',
+  'jal-kavach/new': 'Jal Kavach',
+  'Jal%20Kavach/new': 'Jal Kavach',
+  'Jal Kavach new': 'Jal Kavach',
+  'jal kavach new': 'Jal Kavach',
+  'Jal%20Kavach%20new': 'Jal Kavach',
+  'Kineti Veda 75': 'Kineti Veda 75',
+  'kineti veda 75': 'Kineti Veda 75',
+  'Kineti-Veda-75': 'Kineti Veda 75',
+  'kineti-veda-75': 'Kineti Veda 75',
+  'Kineti%20Veda%2075': 'Kineti Veda 75',
+  'Kineti Veda 75-new': 'Kineti Veda 75',
+  'kineti veda 75-new': 'Kineti Veda 75',
+  'Kineti-Veda-75-new': 'Kineti Veda 75',
+  'kineti-veda-75-new': 'Kineti Veda 75',
+  'Kineti%20Veda%2075-new': 'Kineti Veda 75',
+  'Kineti Veda 75/new': 'Kineti Veda 75',
+  'kineti veda 75/new': 'Kineti Veda 75',
+  'Kineti-Veda-75/new': 'Kineti Veda 75',
+  'kineti-veda-75/new': 'Kineti Veda 75',
+  'Kineti%20Veda%2075/new': 'Kineti Veda 75',
+  'Kineti Veda 75 new': 'Kineti Veda 75',
+  'kineti veda 75 new': 'Kineti Veda 75',
+  'Kineti%20Veda%2075%20new': 'Kineti Veda 75',
 };
 
 export function normalizeSlug(str) {
